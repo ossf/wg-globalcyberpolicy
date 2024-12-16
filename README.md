@@ -1,20 +1,21 @@
 # Global Cyber Policy Working Group
 
-Cybersecurity is a matter of global interest and concern.  Stakeholders from across the ecosystem and the globe are impacted by the deluge of cybersecurity incidents and vulnerability exploits.  The Global Cyber Policy Working Group seeks to assemble subject matter experts from many disiplines to collaboratively discuss legislation, regulation, and cybersecurity frameworks and standards that can help stakeholders of all background meet their compliance obligations.
+Cybersecurity is a matter of global interest and concern.  Stakeholders from across the ecosystem and the globe are impacted by the deluge of cybersecurity incidents and vulnerability exploits.  The Global Cyber Policy Working Group seeks to assemble subject matter experts from many disciplines to collaboratively discuss legislation, regulation, and cybersecurity frameworks and standards that can help stakeholders of all background meet their compliance obligations.
 
 
 ## 
 **Motivation**
 
-Cybersecurity is now codified in international law.  The recent [Regulation (EU) 2024/2847](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) even has provisions now speaking to open source software and open source "Stewards".  
-- It is important that open source maintainer perspectives are appropriately represented and informed about how these legal changes could impact the work of their projects.
-- It is important the Manufactuters, commonly refered to as "vendors" understand their obligations to the law and what resources and support they need from theor upstream maintainers and stewards to meet those obligations.
-- It is important that Open Source Stewards, commonly manifested as Foundations (such as the Linux Foundation, Apache Foundation, and others) understand their obligations under the law and areas that they can support their projects, maintainers, Manuacturer members, and legal regulatory or market surveillance persons.
+Cybersecurity is now codified in international law.  The recent [Regulation (EU) 2024/2847 (Cyber Resilience Act, CRA)](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) even has provisions now speaking to open source software and open source "Stewards".
+
+- It is important that open source maintainers are appropriately represented and informed about how these legal changes could impact the work of their projects.
+- It is important that Manufacturers, commonly referred to as "vendors", understand their obligations to the law and what resources and support they need from their upstream maintainers and stewards to meet those obligations.
+- It is important that Open Source Stewards, commonly manifested as Foundations (such as the Linux Foundation, Apache Foundation, and others), understand their obligations under the law and how they can support their projects, maintainers, Manufacturer members, and legal regulatory or market surveillance organizations.
 
 ## 
 **Objective**
 
-To provide a forum for our members and the broader community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards.  
+The objective of this working group is to provide a forum for our members and the broader community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards which facilitate conformance to regulatory requirements by open source projects and their consumers.
 
 - This group will begin with a focus on the EU's CRA legislation, but in the future can expand into other related topics.
 
