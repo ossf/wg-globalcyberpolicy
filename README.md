@@ -1,31 +1,33 @@
-# **OSSF Project/WG Name**
+# Global Cyber Policy Working Group
 
-[Brief description of the initiative]
+Cybersecurity is a matter of global interest and concern.  Stakeholders from across the ecosystem and the globe are impacted by the deluge of cybersecurity incidents and vulnerability exploits.  The Global Cyber Policy Working Group seeks to assemble subject matter experts from many disiplines to collaboratively discuss legislation, regulation, and cybersecurity frameworks and standards that can help stakeholders of all background meet their compliance obligations.
 
 
 ## 
 **Motivation**
 
-[Background / use cases of the problem to be solved]
-
+Cybersecurity is now codified in international law.  The recent [Regulation (EU) 2024/2847](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) even has provisions now speaking to open source software and open source "Stewards".  
+- It is important that open source maintainer perspectives are appropriately represented and informed about how these legal changes could impact the work of their projects.
+- It is important the Manufactuters, commonly refered to as "vendors" understand their obligations to the law and what resources and support they need from theor upstream maintainers and stewards to meet those obligations.
+- It is important that Open Source Stewards, commonly manifested as Foundations (such as the Linux Foundation, Apache Foundation, and others) understand their obligations under the law and areas that they can support their projects, maintainers, Manuacturer members, and legal regulatory or market surveillance persons.
 
 ## 
 **Objective**
 
-[What is to be achieved with this initiative]
+To provide a forum for our members and the broader community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards.  
 
-[OKRs - OPTIONAL]
+- This group will begin with a focus on the EU's CRA legislation, but in the future can expand into other related topics.
 
 
 ## 
 **Scope**
 
-[What is in and out of scope]
-
+This group will talk about matters that intersect cybersecurity and international legislation.
 
 ## 
 **Prior Work**
 
+[2024 Open Source Software Stewards and Manufacturers Workshop](https://events.linuxfoundation.org/open-source-software-stewards-manufacturers-workshop/)
 
 
 *   List of prior and/or related projects
@@ -33,7 +35,9 @@
 ## 
 **Active Projects**
 
-[Optional]
+- CRA Readiness+Awareness - [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)
+- CRA Tooling+Process+Formats - [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-tooling)
+- CRA Spec Standardization - [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)
 
 ## 
 **Inactive Projects**
@@ -43,9 +47,10 @@
 # 
 **Get Involved**
 
-*   Official communications occur on the [ADD LINK TO YOUR WG MAILING LIST] (ex: https://lists.openssf.org/g/openssf-tac/topics).  \
-[Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-*   [Add Slack information if availabable]
+*   Official communications occur on our:
+*   [mailing list](https://lists.openssf.org/g/openssf-wg-globalcyberpolicy)
+*   [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
+*   [Slack channel](https://openssf.slack.com/archives/C084A6XPX0F)
 
 ## 
 
