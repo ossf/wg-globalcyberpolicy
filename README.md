@@ -68,7 +68,7 @@ This group will talk about matters that intersect cybersecurity and internationa
 **Meeting times**
 
 [TODO: Update with your WG meeting details]
-*   Every other Tuesday @ 10:00am PST (Link to calendar invite)
+*   MEETING TIMES TO BE DETERMINED (Link to calendar invite)
 *   [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
 
 # 
