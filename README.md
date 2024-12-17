@@ -100,6 +100,10 @@ Note that for source code, instead of Apache, you may choose to use the MIT Lice
 4. All other Documentation
 * Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/
 
+**Conduct**
+
+This group will operate according to the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/). 
+
 **Antitrust Policy Notice**
 
 Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws.
