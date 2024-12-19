@@ -7,7 +7,7 @@
 - Chistian "fukami" Horchert, OpenSSF (@fukami)
 - Mirko Boehm, LF Europe ( )
 - Mike Bursell, CCC ( )
-- 
+- Georg Kunz, Ericsson (@gkunz)
 
 ## Emeritus Maintainers
 
