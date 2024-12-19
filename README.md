@@ -37,19 +37,19 @@ This group will:
 
 *   List of prior and/or related projects
 
-## 
-**Active Projects**
+## Meeting Times
+** Meeting dates and times are still being determined **
+The Full WG will meet <insert meeting schedule> . The meeting invite is available on the [public OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-- CRA Readiness+Awareness - [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)
-- CRA Tooling+Process+Formats - [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-tooling)
-- CRA Spec Standardization - [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)
+| Effort       |    Meeting Times                                         |    Meeting Notes/Agenda    |       Git Repo        | Slack Channel | Mailing List |
+| :----------: | :------------------------------------------------------: | :------------------------: | :-------------------: | :-----------: | :----------: |
+|   Full WG    |                      TBD                                 | [Meeting Notes](         ) | [Git Repo](https://github.com/ossf/wg-globalcyberpolicy) | [Slack](https://openssf.slack.com/archives/C084A6XPX0F) | [WG Mailing List](https://lists.openssf.org/g/openssf-wg-globalcyberpolicy) |
+| Tech Bi-Weeklies |  TBD                                                 | [Meeting Notes](         ) |                       |   TBD         |     TBD      |
+| CRA Readiness+Awareness  |  TBD                                                 | [Meeting Notes](         ) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)  |
+| CRA Tooling+Process+Formats |  TBD                                                 | [Meeting Notes](         ) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-tooling)    |
+| CRA Spec Standardization  |  TBD                                                 | [Meeting Notes](         ) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)  |
 
-## 
-**Inactive Projects**
 
-[Optional]
-
-# 
 **Get Involved**
 
 *   Official communications occur on our:
@@ -69,13 +69,7 @@ This group will:
 *   Etc.
 
 ## 
-**Meeting times**
 
-[TODO: Update with your WG meeting details]
-*   MEETING TIMES TO BE DETERMINED (Link to calendar invite)
-*   [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
-
-# 
 **Governance**
 
 [TODO: Update this link to your specific CHARTER.md file]
