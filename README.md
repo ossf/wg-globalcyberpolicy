@@ -23,7 +23,11 @@ The objective of this working group is to provide a forum for our members and th
 ## 
 **Scope**
 
-This group will talk about matters that intersect cybersecurity and international legislation.
+This group will:
+ - talk about matters that intersect cybersecurity and international legislation;
+ - interact with foundations, regulators and government;
+ - coordinate work on relevant standards;
+ - coordinate work on relevant tooling and processes.
 
 ## 
 **Prior Work**
