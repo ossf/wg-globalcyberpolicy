@@ -8,9 +8,9 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 #### 1. Mission and Scope of the Technical Initiative
 
-- a. The mission of the Technical Initiative is to [MISSION STATEMENT].
+- a. The mission of the Technical Initiative is to provide a forum for our members and the broader community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards which facilitate conformance to regulatory requirements by open source projects and their consumers.
 
-- b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration, and the creation of other artifacts that support the mission.
+- b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration and the creation of other artifacts that support the mission.
 
 #### 2. Technical Steering Committee
 
@@ -28,11 +28,11 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
    - iv. Maintainers are the initial Collaborators defined at the creation of the Technical Initiative. The Maintainers will determine the process for selecting future Maintainers. A Maintainer may be removed by two-thirds approval of the other existing Maintainers, or a majority of the other existing Collaborators.
 
-- d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether a OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
+- d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether an OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
 
 - e. The TSC may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available in the Technical Initiative repository.
 
-- f. The TSC may elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC.  **The TSC Chair, or any other TSC member so designated by the TSC, will serve as the Technical Initiative’s voting representative on the OpenSSF’s Technical Advisory Council (the "TAC").
+- f. The TSC may elect a TSC Chair or two co-Chairs, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. 
 
 - g. Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Technical Initiative, which may include:
 
@@ -45,12 +45,16 @@ This Technical Charter sets forth the responsibilities and procedures for techni
    - iv. establish a fundraising model, and approve or modify a Technical Initiative budget, subject to OpenSSF Governing Board approval;
 
    - v. appointing representatives to work with other open source or open standards communities;
+ 
+   - vi. appointing representatives to work with other industry bodies;
+ 
+   - vii. appointing representatives to work with regulatory or government bodies;
 
-   - vi. approving and implementing policies and processes for contributing (to be published in the Technical Initiative repository) and coordinating with the Linux Foundation to resolve matters or concerns that may arise as set forth in Section 6 of this Technical Charter;
+   - viii. approving and implementing policies and processes for contributing (to be published in the Technical Initiative repository) and coordinating with the Linux Foundation to resolve matters or concerns that may arise as set forth in Section 6 of this Technical Charter;
 
-   - vii. facilitating discussions, seeking consensus, and where necessary, voting on technical matters relating to the Technical Initiative; and
+   - ix. facilitating discussions, seeking consensus, and where necessary, voting on technical matters relating to the Technical Initiative; and
 
-   - viii. coordinating any communications regarding the Technical Initiative.
+   - x. coordinating any communications regarding the Technical Initiative.
 
 #### 3. TSC Voting
 
