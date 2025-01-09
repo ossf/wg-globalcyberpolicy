@@ -83,7 +83,7 @@ The [CHARTER.md](https://github.com/ossf/wg-globalcyberpolicy/blob/main/CHARTER.
 
 
 *   Working Group Co-Lead: [Daniel Appelquist | Samsung](https://github.com/torgo)
-*   Working Group Co-Lead: [Mike Bursell | Confidential Computer Consortium](https://github.com/MikeCamel)
+*   Working Group Co-Lead: [Mike Bursell | Confidential Compute Consortium](https://github.com/MikeCamel)
 
 #
 **Intellectual Property**
