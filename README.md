@@ -59,9 +59,9 @@ The Full WG will meet <insert meeting schedule> . The meeting invite is availabl
 
 ## 
 **2024 Manufacturers and Stewards Summit Materials** 
-* [Implementing the EU Cyber Resilience Act: Workstreams and Key Outcomes]( )
-* [Key cybersecurity challenges around the globe and how the OpenSSF is rising to meet them]( )
-* [Stewarding Cybersecurity Awareness via Data & Discovery]( )
+* [Implementing the EU Cyber Resilience Act: Workstreams and Key Outcomes](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/2024%20Stewards%20%2B%20Manufacturers%20Workshop/Implementing%20the%20EU%20Cyber%20Resilience%20Act_%20Workstreams%20and%20Key%20Outcomes.pdf)
+* [Key cybersecurity challenges around the globe and how the OpenSSF is rising to meet them](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/2024%20Stewards%20%2B%20Manufacturers%20Workshop/OpenSSF%20CRA%20CyberRegs%20(1).pdf)
+* [Stewarding Cybersecurity Awareness via Data & Discovery](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/2024%20Stewards%20%2B%20Manufacturers%20Workshop/Stewarding%20Cybersecurity%20Awareness%20via%20Data%20%26%20Discovery%20.pdf)
 * [LF Stewards+Manufacturers - Tooling+Process stream notes](https://docs.google.com/document/d/1EV4pNZXxiTGdo8tdA92ya16N8otCdLFvqedmqntF4lg/edit?tab=t.0#heading=h.ljy0cv72hwef)
 * [LF Stewards+Manufacturers - Standardization stream notes](https://docs.google.com/document/d/1ZgLv26CvN6JBYHgulpN9GzGj-yzE5U_tyQNbYxDCRF8/edit?tab=t.0#heading=h.he1hzvqvfnat)
 * [LF Stewards+Manufacturers - Awareness stream notes](https://docs.google.com/document/d/1d0mHlmImMNJNKat7qd2binfxBINot7kMBaoQKTH9_b4/edit?tab=t.0#heading=h.untq66fszwdn)
