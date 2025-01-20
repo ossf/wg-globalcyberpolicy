@@ -22,17 +22,19 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
    - i. Contributors include anyone in the technical community that contributes effort, ideas, code, documentation, or other artifacts to the Technical Initiative; 
 
-   - ii. Collaborators are Contributors who have earned the ability to modify ("commit") text, source code, documentation or other artifacts in the Technical Initiative’s repository or direct the agenda or working activities of the Technical Initiative; and
+   - ii. Collaborators are Contributors who have earned the ability to modify ("commit") text, source code, documentation or other artifacts in the Technical Initiative’s repository or direct the agenda or working activities of the Technical Initiative.
 
-   - iii. A Contributor may become a Collaborator by a majority approval of the existing Collaborators. A Collaborator may be removed by a majority approval of the other existing Collaborators.
+   - iii. A Contributor may become a Collaborator by a majority approval of the existing Collaborators or by agreement of the Maintainers. A Collaborator may be removed by a majority approval of the other existing Collaborators, by agreement of the Maintainers, or due to violation of the Code of Conduct.
 
-   - iv. Maintainers are the initial Collaborators defined at the creation of the Technical Initiative. The Maintainers will determine the process for selecting future Maintainers. A Maintainer may be removed by two-thirds approval of the other existing Maintainers, or a majority of the other existing Collaborators.
+   - iv. Maintainers will be OpenSSF staff, working group co-chairs, and SIG leads. The Maintainers will determine the process for selecting future Maintainers. A Maintainer may be removed by two-thirds approval of the other existing Maintainers, or a majority of the other existing Collaborators, or by OpenSSF senior staff if there is shown to violation of the Code of Conduct.
 
 - d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether an OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
 
 - e. The TSC may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available in the Technical Initiative repository.
 
-- f. The TSC may elect a TSC Chair or two co-Chairs, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. 
+- f. The TSC may elect a TSC Chair or two co-Chairs, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC.
+
+   - i. The TSC may further select SIG leads who will become Maintainers and members of the TSC.
 
 - g. Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Technical Initiative, which may include:
 
@@ -70,7 +72,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 - a. This Technical Charter is subject to the OpenSSF Charter and any rules or policies established for all Technical Initiatives.  
 
-- b. The Technical Initiative participants must conduct their business in a professional manner, subject to the Contributor Covenant Code of Conduct 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). The TSC may adopt a different code of conduct ("CoC") for the Technical Initiative, subject to approval by the TAC.
+- b. The Technical Initiative participants must conduct their business in a professional manner, subject to the OpenSSF Code of Conduct (based on the Contributor Covenant Code of Conduct 2.0), available at [https://openssf.org/community/code-of-conduct/](https://openssf.org/community/code-of-conduct/). 
 
 - c. All Collaborators must allow open participation from any individual or organization meeting the requirements for contributing under this Technical Charter and any policies adopted for all Collaborators by the TSC, regardless of competitive interests. Put another way, the Technical Initiative community must not seek to exclude any participant based on any criteria, requirement, or reason other than those that are reasonable and applied on a non-discriminatory basis to all Collaborators in the Technical Initiative community. All activities conducted in the Technical Initiative are subject to the Linux Foundation’s Antitrust Policy, available at [https://www.linuxfoundation.org/antitrust-policy](https://www.linuxfoundation.org/antitrust-policy/).
 
