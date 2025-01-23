@@ -111,3 +111,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 #### 7. Amendments
 
 - a. This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by the TAC.
+
+#### 8. Liaisons
+
+- a. This group will endevour to establish regular communications and coordinate its efforts with other similar organizations. A list of these will be maintained in [our liaisons list](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/external-liaisons.md).
