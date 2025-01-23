@@ -44,10 +44,10 @@ The Full WG will meet <insert meeting schedule> . The meeting invite is availabl
 | Effort       |    Meeting Times                                         |    Meeting Notes/Agenda    |       Git Repo        | Slack Channel | Mailing List |
 | :----------: | :------------------------------------------------------: | :------------------------: | :-------------------: | :-----------: | :----------: |
 |   Full WG    | Every other Tuesday 2pm CET/8am EST                      | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne) | [Git Repo](https://github.com/ossf/wg-globalcyberpolicy) | [Slack](https://openssf.slack.com/archives/C084A6XPX0F) | [WG Mailing List](https://lists.openssf.org/g/openssf-wg-globalcyberpolicy) |
-| Tech Bi-Weeklies |  Every other Monday 4pm CET/10am EST                 | [Meeting Topics](         ) |                       |   TBD         |     TBD      |
-| CRA Readiness+Awareness  |  TBD                                                 | [Meeting Notes](         ) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)  |
-| CRA Tooling+Process+Formats |  TBD                                                 | [Meeting Notes](         ) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-tooling)    |
-| CRA Spec Standardization  |  TBD                                                 | [Meeting Notes](         ) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)  |
+| Tech Bi-Weeklies |  Every other Monday 4pm CET/10am EST                 | [Meeting Notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit) |                       |   TBD         |     TBD      |
+| CRA Readiness+Awareness  |  TBD                                                 | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)  |
+| CRA Tooling+Process+Formats |  TBD                                                 | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-tooling)    |
+| CRA Spec Standardization  |  TBD                                                 | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)  |
 
 
 **Get Involved**
