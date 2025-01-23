@@ -47,7 +47,7 @@ The Full WG will meet <insert meeting schedule> . The meeting invite is availabl
 | Tech Bi-Weeklies |  Every other Monday 4pm CET/10am EST                 | [Meeting Notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit) |                       |   TBD         |     TBD      |
 | CRA Readiness+Awareness  |  TBD                                                 | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)  |
 | CRA Tooling+Process+Formats |  TBD                                                 | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-tooling)    |
-| CRA Spec Standardization  |  TBD                                                 | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)  |
+| CRA Spec Standardization  |  TBD                                                 | [Meeting Notes](https://drive.google.com/drive/folders/1FfWXtQTQe1XAOX0R_QaNamyGgKGLRaKW) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)  |
 
 
 **Get Involved**
