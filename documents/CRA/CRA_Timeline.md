@@ -1,4 +1,4 @@
-Here is a listing of important historic and future dates for the CRA:
+Here is a listing of important historic and future dates for the CRA.  Please note that all future dates are keyed off of the "EIF" date which is the date the law "Entered Into Force":
 
 
 |      CRA Time    |  Date   (dd-mm-yyyy) |                 Description           |         State          |     Possible Actions    |        CRA/SR         |
