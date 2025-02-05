@@ -14,9 +14,9 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 #### 2. Technical Steering Committee
 
-- a. The Working Group will be considered synonymopus with the Technical Steering Committee (the "TSC" elsewhere in this document) and will be responsible for all oversight of the Working Group. 
+- a. The Working Group will be considered synonymous with the Technical Steering Committee (the "TSC" elsewhere in this document) and will be responsible for all oversight of the Working Group. 
 
-- b. Membbers of the working group will be documented in the Working Group's repository. Anyone may join the Working Group by making a pull request on the Members.md document. A member of the group's leadership team will approve these requests. Any meetings of the Working Group are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+- b. Members of the working group will be documented in the Working Group's repository. Anyone may join the Working Group by making a pull request on the [MEMBERS.md](https://github.com/ossf/wg-globalcyberpolicy/blob/main/governance/MEMBERS.md) document. A member of the group's leadership team will approve these requests. Any meetings of the Working Group are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
 - c. The Working Group generally will involve Maintainers and Contributors. The Working Group may adopt or modify additional roles so long as the roles are documented in the Working Group’s repository. Unless otherwise documented: 
 
