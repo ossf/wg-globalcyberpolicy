@@ -1,50 +1,50 @@
 # Technical Charter for Open Source Security Foundation
 
-[Global Cyber Policy- Working Group | Technical Initiative]
+**Global Cyber Policy Working Group**
 
 Adopted [DATE]
 
-This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Global Cyber Policy open source community, which has been established as a [Working Group | Technical Initiative] (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
+This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Global Cyber Policy open source community, which has been established as a **Working Group** (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including contributors, maintainers, and other technical positions) and other participants in the Working Group (collectively, “Collaborators”) must comply awith the terms of this Technical Charter and the OpenSSF Charter. 
 
-#### 1. Mission and Scope of the Technical Initiative
+#### 1. Mission and Scope of the Working Group
 
-- a. The mission of the Technical Initiative is to provide a forum for our members and the broader community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards which facilitate conformance to regulatory requirements by open source projects and their consumers.
+- a. The mission of the Working Group is to provide a forum for our members and the broader community to collaborate on Global Cybersecurity-related legislation, frameworks, and standards which facilitate conformance to regulatory requirements by open source projects and their consumers.
 
-- b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration and the creation of other artifacts that support the mission.
+- b. The scope of the Working Group includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration and the creation of other artifacts that support the mission.
 
 #### 2. Technical Steering Committee
 
-- a. The Technical Steering Committee (the "TSC") will be responsible for all oversight of the Technical Initiative. 
+- a. The Working Group will be considered synonymous with the Technical Steering Committee (the "TSC" elsewhere in this document) and will be responsible for all oversight of the Working Group. 
 
-- b. The TSC voting members are initially the Technical Initiative’s Maintainers. The Maintainers will be documented in the Technical Initiative repository. The TSC is responsible for determining the future process for defining voting members of the TSC, and any such alternative approach will also be documented appropriately.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
+- b. Members of the working group will be documented in the Working Group's repository. Anyone may join the Working Group by making a pull request on the [MEMBERS.md](https://github.com/ossf/wg-globalcyberpolicy/blob/main/governance/MEMBERS.md) document. A member of the group's leadership team will approve these requests. Any meetings of the Working Group are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
-- c. The Technical Initiative generally will involve Collaborators and Contributors. The TSC may adopt or modify additional roles so long as the roles are documented in the Technical Initiative’s repository. Unless otherwise documented: 
+- c. The Working Group generally will involve Maintainers and Contributors. The Working Group may adopt or modify additional roles so long as the roles are documented in the Working Group’s repository. Unless otherwise documented: 
 
    - i. Contributors include anyone in the technical community that contributes effort, ideas, code, documentation, or other artifacts to the Technical Initiative; 
 
-   - ii. Collaborators are Contributors who have earned the ability to modify ("commit") text, source code, documentation or other artifacts in the Technical Initiative’s repository or direct the agenda or working activities of the Technical Initiative.
+   - ii. Maintainers are members of the working group's leadershiop team, comprised of working group chairs, selected OpenSSF staff members and SIG leads.
+   
+   - iii. A contributor or a maintainer may be removed by a majority approval of the other existing Contributors, by agreement of the Maintainers, or due to violation of the Code of Conduct.
 
-   - iii. A Contributor may become a Collaborator by a majority approval of the existing Collaborators or by agreement of the Maintainers. A Collaborator may be removed by a majority approval of the other existing Collaborators, by agreement of the Maintainers, or due to violation of the Code of Conduct.
+   - iv. The Maintainers will determine the process for selecting future Maintainers. A Maintainer may be removed by two-thirds approval of the other existing Maintainers, or a majority of the other existing Contributors, or by OpenSSF senior staff if there is shown to violation of the Code of Conduct.
 
-   - iv. Maintainers will be OpenSSF staff, working group co-chairs, and SIG leads. The Maintainers will determine the process for selecting future Maintainers. A Maintainer may be removed by two-thirds approval of the other existing Maintainers, or a majority of the other existing Collaborators, or by OpenSSF senior staff if there is shown to violation of the Code of Conduct.
+- d. Participation in the Working Group through becoming a Contributor, or Maintainer is open to anyone, whether an OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
 
-- d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether an OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
+- e. The Working Group may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available in the Technical Initiative repository.
 
-- e. The TSC may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available in the Technical Initiative repository.
+- f. The Working Group may elect a Chair or two co-Chairs, who will preside over meetings of the Working Group and will serve until their resignation or replacement by the Working Group.
 
-- f. The TSC may elect a TSC Chair or two co-Chairs, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC.
+   - i. The Working Group Chairs may further select Special Interest Group (SIG) leads who will become Maintainers and members of the Working Group leadership team.
 
-   - i. The TSC may further select SIG leads who will become Maintainers and members of the TSC.
+- g. Responsibilities: The Working Group will be responsible for all aspects of oversight relating to the Working Group, which may include:
 
-- g. Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Technical Initiative, which may include:
-
-   - i. coordinating the direction of the Technical Initiative;
+   - i. coordinating the direction of the Working Group;
 
    - ii. approving, organizing or removing activities and projects;
 
-   - iii. establish community norms, workflows, processes, release requirements, and templates for the operation of the Technical Initiative;
+   - iii. establish community norms, workflows, processes, release requirements, and templates for the operation of the Working Group;
 
-   - iv. establish a fundraising model, and approve or modify a Technical Initiative budget, subject to OpenSSF Governing Board approval;
+   - iv. establish a fundraising model, and approve or modify the Working Group's budget, subject to OpenSSF Governing Board approval;
 
    - v. appointing representatives to work with other open source or open standards communities;
  
@@ -52,21 +52,21 @@ This Technical Charter sets forth the responsibilities and procedures for techni
  
    - vii. appointing representatives to work with regulatory or government bodies;
 
-   - viii. approving and implementing policies and processes for contributing (to be published in the Technical Initiative repository) and coordinating with the Linux Foundation to resolve matters or concerns that may arise as set forth in Section 6 of this Technical Charter;
+   - viii. approving and implementing policies and processes for contributing (to be published in the Working Group's repository) and coordinating with the Linux Foundation to resolve matters or concerns that may arise as set forth in Section 6 of this Technical Charter;
 
-   - ix. facilitating discussions, seeking consensus, and where necessary, voting on technical matters relating to the Technical Initiative; and
+   - ix. facilitating discussions, seeking consensus, and where necessary, voting on technical matters relating to the Working Group; and
 
-   - x. coordinating any communications regarding the Technical Initiative.
+   - x. coordinating any communications regarding the Working Group.
 
-#### 3. TSC Voting
+#### 3. Working Group Voting
 
-- a. While the Technical Initiative aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Technical Initiative forward, the voting members of the TSC will vote on a one vote per voting member basis.
+- a. While the Working Group aims to operate as a consensus-based community, if any decision requires a vote to move the Working Group forward, the voting members of the Working Group will vote on a one vote per voting member basis.
 
-- b. Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
+- b. Quorum for TSC meetings requires at least fifty percent of all voting members of the Working Group to be present. The Working Group may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
-- c. Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
+- c. Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the Working Group.
 
-- d. In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the TAC for assistance in reaching a resolution.
+- d. In the event a vote cannot be resolved by the Working Group, any voting member of the Working Group may refer the matter to the TAC for assistance in reaching a resolution.
 
 #### 4. Compliance with Policies
 
