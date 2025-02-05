@@ -1,3 +1,3 @@
-| Name | Affiliation | GitHub ID | Role |
+| Name | Affiliation | GitHub ID | 
 | --- | --- | --- | --- |
-| Daniel Appelquist | Samsung | @torgo | Co-Chair
+| Daniel Appelquist | Samsung | @torgo |
