@@ -2,11 +2,13 @@
 
 ## Project Maintainers
 
-- Daniel Appelquist, Samsung (@Torgo)
 - Christopher "CRob" Robinson, OpenSSF (@SecurityCRob)
 - Chistian "fukami" Horchert, OpenSSF (@fukami)
+- Daniel Appelquist, Samsung (@Torgo)
+- Jeff Diecks, OpenSSF (@GeauxJD)
+- Megan Knight, ARM (@avocadosand)
+- Mike Bursell, CCC (@MikeCamel)
 - Mirko Boehm, LF Europe ( )
-- Mike Bursell, CCC ( )
 - Georg Kunz, Ericsson (@gkunz)
 
 ## Emeritus Maintainers
