@@ -22,7 +22,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
    - i. Contributors include anyone in the technical community that contributes effort, ideas, code, documentation, or other artifacts to the Technical Initiative; 
 
-   - ii. Maintainers are members of the working group's leadershiop team, comprised of working group chairs, selected OpenSSF staff members and SIG leads.
+   - ii. Maintainers are members of the working group's leadership team, comprised of working group chairs, selected OpenSSF staff members and SIG leads.
    
    - iii. A contributor or a maintainer may be removed by a majority approval of the other existing Contributors, by agreement of the Maintainers, or due to violation of the Code of Conduct.
 
@@ -114,4 +114,4 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 #### 8. Liaisons
 
-- a. This group will endevour to establish regular communications and coordinate its efforts with other similar organizations. A list of these will be maintained in [our liaisons list](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/external-liaisons.md).
+- a. This group will endeavor to establish regular communications and coordinate its efforts with other similar organizations. A list of these will be maintained in [our liaisons list](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/external-liaisons.md).
