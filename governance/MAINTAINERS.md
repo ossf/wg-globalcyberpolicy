@@ -8,8 +8,6 @@
 - Jeff Diecks, OpenSSF (@GeauxJD)
 - Megan Knight, ARM (@avocadosand)
 - Mike Bursell, CCC (@MikeCamel)
-- Mirko Boehm, LF Europe ( )
-- Georg Kunz, Ericsson (@gkunz)
 
 ## Emeritus Maintainers
 
