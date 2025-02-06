@@ -4,7 +4,7 @@
 
 Adopted [DATE]
 
-This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Global Cyber Policy open source community, which has been established as a **Working Group** (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including contributors, maintainers, and other technical positions) and other participants in the Working Group (collectively, “Collaborators”) must comply awith the terms of this Technical Charter and the OpenSSF Charter. 
+This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Global Cyber Policy open source community, which has been established as a **Working Group** (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including contributors, maintainers, and other technical positions) and other participants in the Working Group (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
 
 #### 1. Mission and Scope of the Working Group
 
@@ -16,7 +16,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 - a. The Working Group will be considered synonymous with the Technical Steering Committee (the "TSC" elsewhere in this document) and will be responsible for all oversight of the Working Group. 
 
-- b. Members of the working group will be documented in the Working Group's repository. Anyone may join the Working Group by making a pull request on the [MEMBERS.md](https://github.com/ossf/wg-globalcyberpolicy/blob/main/governance/MEMBERS.md) document. A member of the group's leadership team will approve these requests. Any meetings of the Working Group are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+- b. Members of the working group will be documented in the Working Group's repository. Anyone may join the Working Group by making a pull request on the [MEMBERS.md](https://github.com/ossf/wg-globalcyberpolicy/blob/main/governance/MEMBERS.md) document. A member of the group's leadership will review these requests and approve unless further information is required. Any meetings of the Working Group are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
 - c. The Working Group generally will involve Maintainers and Contributors. The Working Group may adopt or modify additional roles so long as the roles are documented in the Working Group’s repository. Unless otherwise documented: 
 
@@ -28,7 +28,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
    - iv. The Maintainers will determine the process for selecting future Maintainers. A Maintainer may be removed by two-thirds approval of the other existing Maintainers, or a majority of the other existing Contributors, or by OpenSSF senior staff if there is shown to violation of the Code of Conduct.
 
-- d. Participation in the Working Group through becoming a Contributor, or Maintainer is open to anyone, whether an OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
+- d. Participation in the Working Group through becoming a Contributor, or Maintainer is open to anyone, whether an OpenSSF member or not, so long as they abide by the terms of this Technical Charter and applicable Linux Foundation rules. 
 
 - e. The Working Group may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available in the Technical Initiative repository.
 
