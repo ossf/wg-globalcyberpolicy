@@ -2,7 +2,7 @@
 
 **Global Cyber Policy Working Group**
 
-Adopted [DATE]
+Adopted: 6-Feb-2025
 
 This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Global Cyber Policy open source community, which has been established as a **Working Group** (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including contributors, maintainers, and other technical positions) and other participants in the Working Group (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
 
