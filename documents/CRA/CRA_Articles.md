@@ -4,19 +4,19 @@ This page contains an index of the Articles detailed within the [CRA](https://eu
 |      Item             |             title           |                 Comments                |        
 | :-------------------: | :-------------------------: | :-------------------------------------: | 
 |    RECITALS           |          1-131              |                                         |          
-|    CHAPTER I          |    GENERAL PROVISIONS       |                                         |
-|    Article 1          |    Subject Matter           |                                         |
-|    Article 2          |           Scope             |    1. This Regulation applies to products with digital elements made available on the market, the intended purpose or reasonably foreseeable use of which includes a direct or indirect logical or physical data connection to a device or network. 2.2 This Regulation does not apply to products: (a) medical devices (b) in vitro (c) cars 2.3 Does not apply to products in aviation 2.4. Does not apply to marine equipment  |
-|    Article 3          |    Definitions              |    Art 3 Definitions --> extra sheet  Roles dissected -> extra sheet   |
-|    Article 4          |    Free Movement            |                                         |
-|    Article 5          |    Procurement or use of products with digital elements      |         |
-|    Article 6          |   Requirements for products with digital elements      |      Overview see Annex I            |
-|    Article 7          |   Important products with digital elements       |        Overview see Annex III                                 |
-|    Article 8          |    Critical products with digital elements   |       Overview see Annex IV                                  |
-|    Article 9          |    Stakeholder consultation      |                                         |
-|    Article 10         |    Enhancing skills in a cyber resilient digital environment       |                                         |
-|    Article 11         |    General product safety       |                                         |
-|    Article 12         |    High-risk AI systems       |    1. Article 12 High-risk AI systems High-risk AI systems comply with cybersecurity requirements essential requirements (a) Annex I Part I (b) Annex I Part II (c) protection required and demonstrated in  declaration of conformity     |
+|    [CHAPTER I](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#cpt_I)          |    GENERAL PROVISIONS       |                                         |
+|    [Article 1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_1)          |    Subject Matter           |                                         |
+|    [Article 2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_2)          |           Scope             |    1. This Regulation applies to products with digital elements made available on the market, the intended purpose or reasonably foreseeable use of which includes a direct or indirect logical or physical data connection to a device or network. 2.2 This Regulation does not apply to products: (a) medical devices (b) in vitro (c) cars 2.3 Does not apply to products in aviation 2.4. Does not apply to marine equipment  |
+|    [Article 3](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3)          |    Definitions              |    Art 3 Definitions --> extra sheet  Roles dissected -> extra sheet   |
+|    [Article 4](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_4)          |    Free Movement            |                                         |
+|    [Article 5](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_5)          |    Procurement or use of products with digital elements      |         |
+|    [Article 6](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_6)          |   Requirements for products with digital elements      |      Overview see Annex I            |
+|    [Article 7](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_7)          |   Important products with digital elements       |        Overview see Annex III                                 |
+|    [Article 8](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_8)          |    Critical products with digital elements   |       Overview see Annex IV                                  |
+|    [Article 9](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_9)          |    Stakeholder consultation      |                                         |
+|    [Article 10](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_10)         |    Enhancing skills in a cyber resilient digital environment       |                                         |
+|    [Article 11](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_11)         |    General product safety       |                                         |
+|    [Article 12](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_12)         |    High-risk AI systems       |    1. Article 12 High-risk AI systems High-risk AI systems comply with cybersecurity requirements essential requirements (a) Annex I Part I (b) Annex I Part II (c) protection required and demonstrated in  declaration of conformity     |
 
 |      Item             |             title           |                 Comments                |        
 | :-------------------: | :-------------------------: | :-------------------------------------: | 
