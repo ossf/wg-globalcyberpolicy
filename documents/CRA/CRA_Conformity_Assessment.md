@@ -1,4 +1,4 @@
-# EU CRA Conformity Assessment
+# EU CRA Conformity Assessment Procedures (Annex VIII)
 
 ## Part I Conformity assessment procedure based on internal control (based on module A)
 
@@ -93,3 +93,7 @@ A copy of the declaration of conformity shall be made available to the relevant 
 7. Each notified body shall inform its notifying authorities of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality system approvals refused, suspended or otherwise restricted. Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
 8. Authorised representative
 The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by its authorised representative, on its behalf and under its responsibility, provided that the relevant obligations are specified in the mandate.
+
+Licenced: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Authors credit: fukami [OpenSSF](https://openssf.org/)
