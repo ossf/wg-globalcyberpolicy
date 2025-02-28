@@ -1,4 +1,4 @@
-This is a checklist of the requirements Product Security tmeas (PSIRT) within Manufaturers must fulfill to meet the requirements laid out in the CRA as laid out in Annex I.
+This is a checklist of the requirements Product Security tmeas (PSIRT) within Manufacturers must fulfill to meet the requirements laid out in the CRA as laid out in Annex I.
 # Cybersecurity Requirements from Annex I Part I #
 | Check | Area |  Citation  | Requirement  |  Tl/DR |
 | :---: | :--: | :--------: | :---------:  | :----: |
@@ -18,7 +18,7 @@ This is a checklist of the requirements Product Security tmeas (PSIRT) within Ma
 |  [ ]  | Cybersecurity    | [Annex I 1.2l](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I)  | Provide security related information by recording and monitoring relevant internal activity, including the access to or modification of data, services or functions, with an opt-out mechanism for the user | protect security-related logs and data  |
 |  [ ]  | Cybersecurity    | [Annex I 1.2m](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I)  | provide the possibility for users to securely and easily remove on a permanent basis all data and settings and, where such data can be transferred to other products or systems, ensure that this is done in a secure manner  | allow users to opt-out and remove data  |
 
-# Vulnerabilty Handling Requierments from Annex I Part II#
+# Vulnerabilty Handling Requirements from Annex I Part II #
 | Check | Area |  Citation  | Requirement  |  Tl/DR |
 | :---: | :--: | :--------: | :---------:  | :----: |
 |  [ ]  | Vuln handling   | [Annex I 2.1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#anx_I)    | Identify and document vulnerabilities and components contained in products with digital elements, including by drawing up a software bill of materials in a commonly used and machine-readable format covering at the very least the top-level dependencies of the products     | SBOM & known vuln scanning  |
