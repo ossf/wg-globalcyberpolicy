@@ -6,7 +6,7 @@
 - Chistian "fukami" Horchert, OpenSSF (@fukami)
 - Daniel Appelquist, Samsung (@Torgo)
 - Jeff Diecks, OpenSSF (@GeauxJD)
-- Megan Knight, ARM (@avocadosand)
+- Megan Knight, Arm (@businesscasualkesha)
 - Mike Bursell, CCC (@MikeCamel)
 
 ## Emeritus Maintainers
