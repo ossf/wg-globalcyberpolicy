@@ -1,5 +1,9 @@
 # Global Cyber Policy Working Group
 
+The Global Cyber Policy Working group is officially a [Sandbox-level](https://github.com/ossf/tac/blob/main/process/working-group-lifecycle.md#to-become-sandbox) working group within the OpenSSF <img align="right" src="https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_sandbox.svg" width="100" height="100">
+
+<img align="right" src="https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/CRAfish-final.png" width="300" height="300">
+
 Cybersecurity is a matter of global interest and concern.  Stakeholders from across the ecosystem and the globe are impacted by the deluge of cybersecurity incidents and vulnerability exploits.  The Global Cyber Policy Working Group seeks to assemble subject matter experts from many disciplines to collaboratively discuss legislation, regulation, and cybersecurity frameworks and standards that can help stakeholders of all background meet their compliance obligations.
 
 
