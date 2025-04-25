@@ -1,4 +1,4 @@
-# OpenSSF Best Practices Working Group (WG)
+# OpenSSF Global Cyber Policy Working Group (WG)
 
 This is a list of materials (documents, services, and so on) released by the
 [Open Source Security Foundation (OpenSSF)](https://openssf.org)
