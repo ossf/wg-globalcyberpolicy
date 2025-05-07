@@ -4,8 +4,8 @@
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
       {%- assign page_titles = site.pages | map: 'title' | compact %}
-      <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/logo.svg' | relative_url }}" alt="{{ site.title | escape }}" height="85">
+      <a class="site-title" href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/assets/logo.svg" alt="{{ site.title }}" height="85">
       </a>
   
       {%- unless page_titles == empty %}
