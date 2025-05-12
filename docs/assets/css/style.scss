@@ -1,7 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'auto' }}",
+  "minima/initialize";
 
 /* For information on use Jekyll in GitHub:
   https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
@@ -175,8 +177,20 @@ a:hover {
 a:active {
   color: #04ee5f;
 }
-.site-title img {
-  max-height: 85px;
-  width: auto;
-  vertical-align: middle;
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-bottom: 10px;
+}
+
+.site-logo {
+  flex: 0 0 auto;
+}
+
+.site-title {
+  flex: 1 1 auto;
+  text-align: right;
+  margin-bottom: 0;
+  padding-left: 20px;
 }
