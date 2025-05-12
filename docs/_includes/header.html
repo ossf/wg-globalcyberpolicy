@@ -1,9 +1,9 @@
 <header class="site-header">
-    <div class="wrapper">
+    <div class="wrapper header-wrapper">
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
       {%- assign page_titles = site.pages | map: 'title' | compact %}
-      <a class="site-title" href="https://openssf.org">
+      <a class="site-logo" href="https://openssf.org">
         <img src="{{ site.baseurl }}/assets/logo.svg" alt="OpenSSF" height="85">
       </a>
       <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
