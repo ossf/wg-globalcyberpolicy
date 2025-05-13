@@ -1,4 +1,6 @@
-# OpenSSF Global Cyber Policy Working Group (WG)
+---
+title: OpenSSF Global Cyber Policy Working Group
+---
 
 This is a list of materials (documents, services, and so on) released by the
 [Open Source Security Foundation (OpenSSF)](https://openssf.org)
