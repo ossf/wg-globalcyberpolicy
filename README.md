@@ -34,12 +34,9 @@ This group will:
  - coordinate work on relevant tooling and processes.
 
 ## 
-**Prior Work**
+**Available materials**
 
-[2024 Open Source Software Stewards and Manufacturers Workshop](https://events.linuxfoundation.org/open-source-software-stewards-manufacturers-workshop/)
-
-
-*   List of prior and/or related projects
+* [Free course *Understanding the EU Cyber Resilience Act (CRA)* (LFEL1001)](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/); [slides available](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit)
 
 ## Meeting Times
 ** Meeting dates and times are still being determined **
@@ -62,7 +59,10 @@ The Full WG will meet <insert meeting schedule> . The meeting invite is availabl
 *   [Slack channel](https://openssf.slack.com/archives/C084A6XPX0F)
 
 ## 
-**2024 Manufacturers and Stewards Summit Materials** 
+**Prior Work**
+
+The [2024 Open Source Software Stewards and Manufacturers Workshop](https://events.linuxfoundation.org/open-source-software-stewards-manufacturers-workshop/) had a number of materials:
+
 * [Implementing the EU Cyber Resilience Act: Workstreams and Key Outcomes](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/2024%20Stewards%20%2B%20Manufacturers%20Workshop/Implementing%20the%20EU%20Cyber%20Resilience%20Act_%20Workstreams%20and%20Key%20Outcomes.pdf)
 * [Key cybersecurity challenges around the globe and how the OpenSSF is rising to meet them](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/2024%20Stewards%20%2B%20Manufacturers%20Workshop/OpenSSF%20CRA%20CyberRegs%20(1).pdf)
 * [Stewarding Cybersecurity Awareness via Data & Discovery](https://github.com/ossf/wg-globalcyberpolicy/blob/main/documents/2024%20Stewards%20%2B%20Manufacturers%20Workshop/Stewarding%20Cybersecurity%20Awareness%20via%20Data%20%26%20Discovery%20.pdf)
