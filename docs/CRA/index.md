@@ -1,7 +1,11 @@
 ---
 layout: page
-title: European Cyber Resilience Act (CRA)
+title: European Union Cyber Resilience Act (CRA)
 ---
+
+## Standards
+- [ETSI Overview](etsi_overview.html)
+- [CRA Standards Map](standards.html)
 
 ## Checklists
 - [OSS Stewards Obligations Checklist](checklists/OSS_Stewards_Obligations_Checklist.html)
