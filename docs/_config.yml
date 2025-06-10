@@ -2,7 +2,7 @@ title: OpenSSF Global Cyber Policy Working Group
 author: Open Source Security Foundation (OpenSSF)
 description: This is a collection of documents and information related to the Open Source Security Foundation (OpenSSF) Global Cyber Policy Working Group.
 logo: /assets/logo.svg
-baseurl: "/wg-globalcyberpolicy"
+baseurl: "https://policy.openssf.org"
 url: "https://ossf.github.io"
 # Add to plugins: list
 plugins:
