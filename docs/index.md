@@ -6,9 +6,17 @@ This is a list of materials (documents, services, and so on) released by the
 [Open Source Security Foundation (OpenSSF)](https://openssf.org)
 [Global Cyber Policy Working Group (WG)](https://github.com/ossf/wg-globalcyberpolicy).
 
-## CRA
+## European Union Cyber Resilience Act (CRA)
 
-* TODO
+- [CRA Resources, News and Updates](https://openssf.org/public-policy/eu-cyber-resilience-act/)
+
+### Standards
+- [ETSI Overview](CRA/etsi_overview.html)
+- [CRA Standards Map](CRA/standards.html)
+
+### Checklists
+- [OSS Stewards Obligations Checklist](checklists/OSS_Stewards_Obligations_Checklist.html)
+- [PSIRT Obligations Checklist](checklists/PSIRT_Obligations_Checklist.html)
 
 ## Contributing
 
