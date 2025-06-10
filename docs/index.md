@@ -15,8 +15,8 @@ This is a list of materials (documents, services, and so on) released by the
 - [CRA Standards Map](CRA/standards.html)
 
 ### Checklists
-- [OSS Stewards Obligations Checklist](checklists/OSS_Stewards_Obligations_Checklist.html)
-- [PSIRT Obligations Checklist](checklists/PSIRT_Obligations_Checklist.html)
+- [OSS Stewards Obligations Checklist](CRA/checklists/OSS_Stewards_Obligations_Checklist.html)
+- [PSIRT Obligations Checklist](CRA/checklists/PSIRT_Obligations_Checklist.html)
 
 ## Contributing
 
