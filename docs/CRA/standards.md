@@ -34,3 +34,4 @@ Below is a mapping of the European standards for the CRA to the ESO technical co
 | Vertical | 40 | Smart meter gateways within smart metering systems | CEN/CLC/JTC 13 WG 6 \- Cybersecurity and Data Protection | TBD |
 | Vertical | 41 a-b | Smartcards or similar devices, including secure elements | CLC/TC 47X WG 3 \- Semiconductors and Trusted Chips Implementation CEN/TC 224 \- Personal identification and related personal devices with secure element, systems, operations and privacy in a multi sectorial environment | [EN 50764](https://standards.cencenelec.eu/dyn/www/f?p=305:110:0::::FSP_PROJECT,FSP_LANG_ID:80922,25&cs=1AD2558B5D2D0F3F7BE9F1649C352605E) |
 
+_We welcome suggestions and updates! Please open an [issue](https://github.com/ossf/wg-globalcyberpolicy/issues/) or post a [pull request](https://github.com/ossf/wg-globalcyberpolicy/pulls)._
