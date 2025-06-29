@@ -38,6 +38,11 @@ This group will:
 
 * [Free course *Understanding the EU Cyber Resilience Act (CRA)* (LFEL1001)](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/); [slides available](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit)
 
+##
+**Works in Progress**
+
+* [Cyber Resilience Act (CRA) Brief Guide for Open Source Software (OSS) Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers) - planned soft release 2025-07-01, public announcements 2025-07-15
+
 ## Meeting Times
 ** Meeting dates and times are still being determined **
 The Full WG will meet <insert meeting schedule> . The meeting invite is available on the [public OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
