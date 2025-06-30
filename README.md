@@ -37,11 +37,7 @@ This group will:
 **Available materials**
 
 * [Free course *Understanding the EU Cyber Resilience Act (CRA)* (LFEL1001)](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/); [slides available](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit)
-
-##
-**Works in Progress**
-
-* [Cyber Resilience Act (CRA) Brief Guide for Open Source Software (OSS) Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers) - planned soft release 2025-07-01, public announcements 2025-07-15
+* [Cyber Resilience Act (CRA) Brief Guide for Open Source Software (OSS) Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers)
 
 ## Meeting Times
 ** Meeting dates and times are still being determined **
