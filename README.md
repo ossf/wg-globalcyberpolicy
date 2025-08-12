@@ -40,24 +40,22 @@ This group will:
 * [Cyber Resilience Act (CRA) Brief Guide for Open Source Software (OSS) Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers)
 
 ## Meeting Times
-** Meeting dates and times are still being determined **
-The Full WG will meet <insert meeting schedule> . The meeting invite is available on the [public OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-| Effort       |    Meeting Times                                         |    Meeting Notes/Agenda    |       Git Repo        | Slack Channel | Mailing List |
-| :----------: | :------------------------------------------------------: | :------------------------: | :-------------------: | :-----------: | :----------: |
-|   Full WG    | Every other Tuesday 2pm CEST/8am EDT                      | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne) | [Git Repo](https://github.com/ossf/wg-globalcyberpolicy) | [Slack](https://openssf.slack.com/archives/C084A6XPX0F) | [WG Mailing List](https://lists.openssf.org/g/openssf-wg-globalcyberpolicy) |
-| Tech Bi-Weeklies |  Every other Monday 4pm CEST/10am EDT                 | [Meeting Notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit) |                       |   TBD         |     TBD      |
-| CRA Readiness+Awareness  |  Every other Tuesday 5pm CEST / 11am EDT                                                 | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit) |            [Git Repo](https://www.google.com/url?q=https://github.com/ossf/wg-globalcyberpolicy/tree/main&sa=D&source=calendar&usd=2&usg=AOvVaw3qBjVjdXwrQGPuLqRbF8Uu)           |   [Slack](https://www.google.com/url?q=https://app.slack.com/client/T019QHUBYQ3/C084A6XPX0F&sa=D&source=calendar&usd=2&usg=AOvVaw0DOKdC4tvirPbPx7Hr0Mpj)      |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)  |
-| CRA Tooling+Process+Formats |  TBD                                                 | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-tooling)    |
-| CRA Spec Standardization  |  TBD                                                 | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)  |
+The Full Working Group meeting is every other Monday at 3 p.m. CET / 9 a.m. ET. [Register here](https://zoom-lfx.platform.linuxfoundation.org/meeting/97523638150?password=dca95395-796b-44f2-afd7-413329eed229&invite=true) for the meeting (open to all). [View Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne)
 
+Other Meetings:
+* CRA Monthly Tech Talk: Second Monday of every month at 4 p.m. CET / 10 a.m. ET [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/97523638150?password=dca95395-796b-44f2-afd7-413329eed229&invite=true) | [Notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit?tab=t.0#heading=h.omyjy2x7t74i)
+* CRA Awareness SIG: Every other Tuesday at 4 p.m. CET / 10 a.m. ET [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/98786181680?password=6ec50066-ae09-4262-890a-41c34719b707&invite=true)| [Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne)
+* CRA Standards SIG: Every other Tuesday (opposite Awareness SIG) 3 p.m. CET / 9 a.m. ET [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/94820799512?password=8c6c2c90-2893-42d7-9c0a-d73d15811c30&invite=true) | [Notes](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/edit?tab=t.0#heading=h.9m0zi4b0wnne)
 
 **Get Involved**
 
 *   Official communications occur on our:
+*   [Slack channel](https://openssf.slack.com/archives/C084A6XPX0F)
 *   [mailing list](https://lists.openssf.org/g/openssf-wg-globalcyberpolicy)
 *   [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-*   [Slack channel](https://openssf.slack.com/archives/C084A6XPX0F)
+
+[Contributing Guide](https://github.com/ossf/wg-globalcyberpolicy/blob/main/CONTRIBUTING.md)
 
 ## 
 **Prior Work**
