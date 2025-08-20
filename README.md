@@ -41,7 +41,16 @@ This group will:
 
 ## Meeting Times
 
-The Full Working Group meeting is every other Monday at 3 p.m. CET / 9 a.m. ET. [Register here](https://zoom-lfx.platform.linuxfoundation.org/meeting/97523638150?password=dca95395-796b-44f2-afd7-413329eed229&invite=true) for the meeting (open to all). [View Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne)
+
+| Effort       |    Meeting Times                                         |    Meeting Notes/Agenda    |       Git Repo        | Slack Channel | Mailing List |
+| :----------: | :------------------------------------------------------: | :------------------------: | :-------------------: | :-----------: | :----------: |
+|   Full WG    | Every other Monday 2pm CEST/9am EDT                      | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne) | [Git Repo](https://github.com/ossf/wg-globalcyberpolicy) | [Slack](https://openssf.slack.com/archives/C084A6XPX0F) | [WG Mailing List](https://lists.openssf.org/g/openssf-wg-globalcyberpolicy) |
+| Tech Bi-Weeklies |  Every other Monday 4pm CEST/10am EDT                 | [Meeting Notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit) |                       |   TBD         |     TBD      |
+| CRA Readiness+Awareness  |  Every other Tuesday 5pm CEST / 11am EDT                                                 | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit) |            [Git Repo](https://www.google.com/url?q=https://github.com/ossf/wg-globalcyberpolicy/tree/main&sa=D&source=calendar&usd=2&usg=AOvVaw3qBjVjdXwrQGPuLqRbF8Uu)           |   [Slack](https://www.google.com/url?q=https://app.slack.com/client/T019QHUBYQ3/C084A6XPX0F&sa=D&source=calendar&usd=2&usg=AOvVaw0DOKdC4tvirPbPx7Hr0Mpj)      |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)  |
+| CRA Tooling+Process+Formats |  TBD                                                 | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-tooling)    |
+| CRA Spec Standardization  |  TBD                                                 | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)  |
+
+The Full Working Group meeting is every other Monday at 2 p.m. CET / 9 a.m. ET. [Register here](https://zoom-lfx.platform.linuxfoundation.org/meeting/97523638150?password=dca95395-796b-44f2-afd7-413329eed229&invite=true) for the meeting (open to all). [View Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne)
 
 Other Meetings:
 * CRA Monthly Tech Talk: Second Monday of every month at 4 p.m. CET / 10 a.m. ET [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/97523638150?password=dca95395-796b-44f2-afd7-413329eed229&invite=true) | [Notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit?tab=t.0#heading=h.omyjy2x7t74i)
