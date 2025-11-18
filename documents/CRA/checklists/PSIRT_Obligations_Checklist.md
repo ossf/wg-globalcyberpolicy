@@ -1,4 +1,4 @@
-This is a checklist of the requirements Product Security tmeas (PSIRT) within Manufacturers must fulfill to meet the requirements laid out in the CRA as laid out in Annex I.
+This is a checklist of the requirements Product Security teams (PSIRT) within Manufacturers must fulfill to meet the requirements laid out in the CRA as laid out in Annex I.
 # Cybersecurity Requirements from Annex I Part I #
 | Check | Area |  Citation  | Requirement  |  Tl/DR |
 | :---: | :--: | :--------: | :---------:  | :----: |
