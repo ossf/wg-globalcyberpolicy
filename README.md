@@ -86,8 +86,11 @@ The [2024 Open Source Software Stewards and Manufacturers Workshop](https://even
 The [CHARTER.md](https://github.com/ossf/wg-globalcyberpolicy/blob/main/CHARTER.md)  outlines the scope and governance of our group activities.
 
 
-*   Working Group Co-Lead: [Daniel Appelquist | Samsung](https://github.com/torgo)
-*   Working Group Co-Lead: [Roman Zhukov | Red Hat](https://github.com/rozhukov)
+* Working Group Co-Lead: [Daniel Appelquist | Samsung](https://github.com/torgo)
+* Working Group Co-Lead: [Roman Zhukov | Red Hat](https://github.com/rozhukov)
+
+* Awareness SIG Lead: [Megan Knight | Arm](https://github.com/businesscasualkesha)
+* Standards SIG Lead: [Madalin Neag](https://github.com/madalinnneag)
 
 #
 **Intellectual Property**
