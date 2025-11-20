@@ -1,5 +1,7 @@
 # Linux Foundation CRA Stewards "One-Pager" # 
 
+The European Cyber Resilience Act (CRA) introduces the concept of an Open Source Software ‘Steward’, a role that closely aligns with how open source foundations already support the projects under their umbrella. This paper outlines what that role entails and provides a brief, practical guide for Linux Foundation projects on the responsibilities and actions they may need to take to meet these stewardship expectations.
+
 ## TL/DR  ##
 In plain language, here is what the Steward’s obligations come down to:
 1. Provide a vulnerability reporting process and a cybersecurity policy, to be adopted and publicly shared by each affected project, including details on secure development practices.
