@@ -6,7 +6,18 @@ maintaining and creating innovative solutions that solve the world’s problems.
 
 Tnis document is intended to be a living playbook of terms, artifacts, entities, and expected processes you will see and hear about as part of the implementation of the CRA in September 2026 and December 2027.
 
-LFEL1001
+Take free course [Understanding the EU Cyber Resilience Act (CRA) (LFEL1001)](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/)
+ 
+## Executive Summary ##
+The EU’s Cyber Resilience Act (CRA) is one of the most consequential pieces of legislation recently drafted and put into force. It combines cybersecurity hygiene, best practices, vulnerability reporting, and documentation requirements that may be unfamiliar to many that work exclusively upstream. Please first consult the LF CRA Stewards ED/GM One-Pager for more concise instructions. This playbook is designed to provide more in-depth details and instructions on how an Open Source Steward can fulfill their obligations, both under the law, but as well to the projects that are housed beneath them as well as the community of members and other participants within the ecosystem. 
+
+The CRA created a new role, the Open Source Steward to help support upstream projects and support both up and downstream:
+An ‘open-source software steward’ means a legal person, other than a manufacturer, that has the purpose or objective of systematically providing support on a sustained basis for the development of specific products with digital elements (PDEs), qualifying as free and open-source software and intended for commercial activities, and that ensures the viability of those products (Article 3.14)
+
+Stewards are formally recognized as entities that can support the compliance efforts of open-source software projects and shared digital components. The regulation assigns them a limited but essential set of legal obligations, primarily focused on ensuring that secure development and vulnerability handling processes are in place, and that relevant information can be communicated effectively to market surveillance authorities when required. These obligations aim to establish a clear line of accountability for the security posture of software elements that may be integrated into products placed on the Union market. In fulfilling these duties, stewards act as a bridge between open-source or collaborative development environments and the regulatory compliance expectations imposed on commercial manufacturers.
+
+Not every project needs a Steward. Some stewards will support multiple projects within their community. The flowchart below is a starting point for clarifying if you are a steward or a manufacturer or both.
+
 
 ## Open Source Developers ##
 The CRA puts no legal obligations for the overwhleming majority of people that create and contribute upstream opne source software.  Just because you do not have legal obligations does not mean that your downstream consumers 
@@ -23,6 +34,7 @@ While open source software stewards are not subject to the full obligations impo
 ## Manufacturer ##
 [Article 13](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) lays down the obligations of Manufacturers under the CRA.
 
+# Table of Contents #
 This Playbook is divided up into sections that focsu in on assiorted topic areas of the CRA including:
 - [CRA Glossary of Terms]()
 - [Coordinated Public Vulnerability Reporting & Process]()
