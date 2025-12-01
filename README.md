@@ -79,14 +79,6 @@ The [2024 Open Source Software Stewards and Manufacturers Workshop](https://even
 * [LF Stewards+Manufacturers - Awareness stream notes](https://docs.google.com/document/d/1d0mHlmImMNJNKat7qd2binfxBINot7kMBaoQKTH9_b4/edit?tab=t.0#heading=h.untq66fszwdn)
 
 
-### 
-**Quick Start**
-
-*   Areas that need contributions
-*   Build information if applicable
-*   Where to file issues
-*   Etc.
-
 ## 
 
 **Governance**
@@ -94,8 +86,11 @@ The [2024 Open Source Software Stewards and Manufacturers Workshop](https://even
 The [CHARTER.md](https://github.com/ossf/wg-globalcyberpolicy/blob/main/CHARTER.md)  outlines the scope and governance of our group activities.
 
 
-*   Working Group Co-Lead: [Daniel Appelquist | Samsung](https://github.com/torgo)
-*   Working Group Co-Lead: [Mike Bursell | Confidential Compute Consortium](https://github.com/MikeCamel)
+* Working Group Co-Lead: [Daniel Appelquist | Samsung](https://github.com/torgo)
+* Working Group Co-Lead: [Roman Zhukov | Red Hat](https://github.com/rozhukov)
+
+* Awareness SIG Lead: [Megan Knight | Arm](https://github.com/businesscasualkesha)
+* Standards SIG Lead: [Madalin Neag](https://github.com/madalinnneag)
 
 #
 **Intellectual Property**
