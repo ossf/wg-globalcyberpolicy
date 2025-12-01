@@ -6,7 +6,7 @@ maintaining and creating innovative solutions that solve the world’s problems.
 
 Tnis document is intended to be a living playbook of terms, artifacts, entities, and expected processes you will see and hear about as part of the implementation of the CRA in September 2026 and December 2027.
 
-Take free course [Understanding the EU Cyber Resilience Act (CRA) (LFEL1001)](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/)
+Take free course [Understanding the EU Cyber Resilience Act (CRA) (LFEL1001)](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/) to learn more.
  
 ## Executive Summary ##
 The EU’s Cyber Resilience Act (CRA) is one of the most consequential pieces of legislation recently drafted and put into force. It combines cybersecurity hygiene, best practices, vulnerability reporting, and documentation requirements that may be unfamiliar to many that work exclusively upstream. Please first consult the LF CRA Stewards ED/GM One-Pager for more concise instructions. This playbook is designed to provide more in-depth details and instructions on how an Open Source Steward can fulfill their obligations, both under the law, but as well to the projects that are housed beneath them as well as the community of members and other participants within the ecosystem. 
