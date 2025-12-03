@@ -37,7 +37,7 @@ While open source software stewards are not subject to the full obligations impo
 [Article 13](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) lays down the obligations of Manufacturers under the CRA.
 
 # Table of Contents #
-This Playbook is divided up into sections that focsu in on assiorted topic areas of the CRA including:
+This Playbook is divided up into sections that focus in on assorted topic areas of the CRA including:
 - [CRA Glossary of Terms]()
 - [Coordinated Public Vulnerability Reporting & Process]()
 - [Entities involved in the CRA]()
