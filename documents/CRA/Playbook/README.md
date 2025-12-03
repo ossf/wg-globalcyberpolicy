@@ -4,7 +4,7 @@ Congratulations!  You are one of the parties that contribute to "Products with D
 as outlined within the [EU’s Cyber Resilience Act (CRA)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3). You are vitally important in supporting upstream projects, developers, and maintainers as they go about the task of 
 maintaining and creating innovative solutions that solve the world’s problems. 
 
-Tnis document is intended to be a living playbook of terms, artifacts, entities, and expected processes you will see and hear about as part of the implementation of the CRA in September 2026 and December 2027.
+This document is intended to be a living playbook of terms, artifacts, entities, and expected processes you will see and hear about as part of the implementation of the CRA in September 2026 and December 2027.
 
 Take free course [Understanding the EU Cyber Resilience Act (CRA) (LFEL1001)](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/) to learn more.
  
