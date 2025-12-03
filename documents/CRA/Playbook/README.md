@@ -45,7 +45,7 @@ This Playbook is divided up into sections that focus in on assorted topic areas 
 - [Information EU Officials may ask for]()
 - [Software Bill of Materials (SBOM) generation]()
 - [EU Single Reporting Platform (SRP) and National CSIRT designation]()
-- [Known Exploited Vulnerabilties]()
+- [Known Exploited Vulnerabilities]()
 - [Severe Incidents]()
 - [CRA Checklists]()
 - [OpenSSF & the Linux Foundation as Open Source Stewards]()
