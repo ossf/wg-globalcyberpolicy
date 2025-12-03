@@ -22,7 +22,7 @@ Not every project needs a Steward. Some stewards will support multiple projects 
 
 
 ## Open Source Developers ##
-The CRA puts no legal obligations for the overwhleming majority of people that create and contribute upstream opne source software.  Just because you do not have legal obligations does not mean that your downstream consumers 
+The CRA puts no legal obligations for the overwhelming majority of people that create and contribute upstream open source software.  Just because you do not have legal obligations does not mean that your downstream consumers 
 will not appraoch you to provide them infoation that THEY need to fulfill THEIR legal obligations.
 [Recital 15](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#rct_15) speaks to "intention of 'making a profit'" as one possible area that open soruce projects and developers need to understand where they 
 *may* be considered to have more obligatipons under the law in line with Manufactureurs.  The OpenSSF and other upstream foundations are working with the European Commission (ec) to provide better definitiaon ad clarity around statemns like this to help guide upstream.
