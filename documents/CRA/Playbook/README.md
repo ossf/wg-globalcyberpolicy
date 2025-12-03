@@ -44,7 +44,7 @@ This Playbook is divided up into sections that focus in on assorted topic areas 
 - [Important Files & Artifacts for the CRA]()
 - [Information EU Officials may ask for]()
 - [Software Bill of Materials (SBOM) generation]()
-- [EU Single Rpoerting Platofmr (SRP) and Natiopnal CSIRT designation]()
+- [EU Single Reporting Platform (SRP) and National CSIRT designation]()
 - [Known Exploited Vulnerabilties]()
 - [Severe Incidents]()
 - [CRA Checklists]()
