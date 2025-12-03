@@ -1,6 +1,6 @@
 # LF CRA Playbook #
 
-Congratulations!  You are one of the parties that controibute to "Products with Digital Elements" (PDE) as detailed in [Article 6](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_6) that will be sold within the European Union.  You are an upstream open source developer, get to be an open source Steward, or perhaps you are a Manufacturer 
+Congratulations!  You are one of the parties that contribute to "Products with Digital Elements" (PDE) as detailed in [Article 6](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_6) that will be sold within the European Union.  You are an upstream open source developer, get to be an open source Steward, or perhaps you are a Manufacturer 
 as outlined within the [EU’s Cyber Resilience Act (CRA)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3). You are vitally important in supporting upstream projects, developers, and maintainers as they go about the task of 
 maintaining and creating innovative solutions that solve the world’s problems. 
 
