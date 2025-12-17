@@ -8,15 +8,8 @@ This is a list of materials (documents, services, and so on) released by the
 
 ## European Union Cyber Resilience Act (CRA)
 
-- [CRA Resources, News and Updates](https://openssf.org/public-policy/eu-cyber-resilience-act/)
-
-### Standards
-- [ETSI Overview](CRA/etsi_overview.html)
-- [CRA Standards Map](CRA/standards.html)
-
-### Checklists
-- [OSS Stewards Obligations Checklist](CRA/checklists/OSS_Stewards_Obligations_Checklist.html)
-- [PSIRT Obligations Checklist](CRA/checklists/PSIRT_Obligations_Checklist.html)
+- [OpenSSF CRA Blog and Resources](https://openssf.org/public-policy/eu-cyber-resilience-act/)
+- [CRA Documents](/CRA)
 
 ## Contributing
 
