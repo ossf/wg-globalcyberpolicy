@@ -3,6 +3,10 @@ layout: page
 title: European Union Cyber Resilience Act (CRA)
 ---
 
+## Stewards Guidance
+- [OpenSSF as Stewards Summary](openssf-as-stewards.html)
+- [Linux Foundation Stewards Playbook](stewards-playbook.html)
+
 ## Standards
 - [ETSI Overview](etsi_overview.html)
 - [CRA Standards Map](standards.html)
