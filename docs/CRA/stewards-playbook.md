@@ -4,6 +4,8 @@ Congratulations\!  You get to be an open source Steward as outlined within the [
 
 While open source software stewards are not subject to the full obligations imposed on manufacturers under this Regulation *(and therefore may not affix the CE marking to supported digital products)*, they remain responsible for implementing a security strategy, reporting vulnerabilities, and cooperating with market surveillance authorities to ensure the cybersecurity and integrity of open source projects. 
 
+[TOC]
+
 # Executive Summary
 
 The EU’s Cyber Resilience Act (CRA) is one of the most consequential pieces of legislation recently drafted and put into force. It combines cybersecurity hygiene, best practices, vulnerability reporting, and documentation requirements that may be unfamiliar to many that work exclusively upstream. Please first consult the [LF CRA Stewards ED/GM One-Pager](openssf-as-stewards.html) for more concise instructions. This playbook is designed to provide more in-depth details and instructions on how an Open Source Steward can fulfill their obligations, both under the law, but as well to the projects that are housed beneath them as well as the community of members and other participants within the ecosystem. 
@@ -25,7 +27,7 @@ Where a specific FOSS is neither placed on the market within the meaning of the 
 
 ![Figure 1 Manufacturer vs Steward](images/figure-1-manufacturer-vs-steward.png "Figure 1: Manufacturer vs Steward")
 
-#### Figure 1: Manufacturer vs s\Steward [^1]
+#### Figure 1: Manufacturer vs Steward [^1]
 
 Further guidance will be provided by the European Commission on their [CRA Implementation webpage.](https://digital-strategy.ec.europa.eu/en/factpages/cyber-resilience-act-implementation)
 
