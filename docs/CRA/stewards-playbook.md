@@ -1,66 +1,12 @@
+# The Linux Foundation CRA Stewards Playbook
+
 Congratulations\!  You get to be an open source Steward as outlined within the [EU’s Cyber Resilience Act (CRA)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3). You are vitally important in supporting upstream projects, developers, and maintainers as they go about the task of maintaining and creating innovative solutions that solve the world’s problems. The Steward role was recognized early on by EU policymakers as distinct from the software creators and the commercial organizations that sell products using those technologies.
 
 While open source software stewards are not subject to the full obligations imposed on manufacturers under this Regulation *(and therefore may not affix the CE marking to supported digital products)*, they remain responsible for implementing a security strategy, reporting vulnerabilities, and cooperating with market surveillance authorities to ensure the cybersecurity and integrity of open source projects. 
 
-**Table of contents**
+# Executive Summary
 
-[Executive Summary	2](#executive-summary)
-
-[CRA Steward Obligations	4](#cra-steward-obligations)
-
-[Referenced obligations that were adapted for stewards:	7](#referenced-obligations-that-were-adapted-for-stewards:)
-
-[CRA Glossary of Terms	8](#cra-glossary-of-terms)
-
-[1\. Cybersecurity policy	9](#cybersecurity-policy)
-
-[2\. Cooperation with Authorities	10](#cooperation-with-authorities)
-
-[2.1. Entities that are involved	10](#entities-that-are-involved)
-
-[2.2. The EU SRP and National CSIRT designation	12](#the-eu-srp-and-national-csirt-designation)
-
-[2.3. What EU Authorities May Request from a Steward	15](#what-eu-authorities-may-request-from-a-steward)
-
-[3\. Specific reporting duties for stewards	18](#specific-reporting-duties-for-stewards)
-
-[3.1. Legal framework for Stewards’ reporting obligations	18](#legal-framework-for-stewards’-reporting-obligations)
-
-[3.2. Coordinated Public Vulnerability Reporting Policy & Process	20](#coordinated-public-vulnerability-reporting-policy-&-process)
-
-[4\. How Stewards Can Support Downstream Manufacturers	21](#4.-how-stewards-can-support-downstream-manufacturers)
-
-[Checklist	24](#checklist)
-
-## 
-
-## 
-
-## Table of figures
-
-[Figure 1: Manufacturer vs steward	3](#figure-1:-manufacturer-vs-steward)
-
-[Figure 2: Manufacturer vs steward	5](#figure-2:-manufacturer-vs-steward)
-
-[Figure 3: LF sub-foundations as stewards?	6](#figure-3:-lf-sub-foundations-as-stewards?)
-
-[Figure 4: Reporting vulnerabilities via SRP	14](#figure-4:-reporting-vulnerabilities-via-srp)
-
-## List of tables
-
-[Table 1: List of CRA Stewards obligations	5](#table-1:-list-of-cra-stewards-obligations)
-
-[Table 2: List of referenced obligations in the Article 24	9](#table-2:-list-of-referenced-obligations-in-the-article-24)
-
-[Table 3: List of cybersecurity authorities	13](#table-3:-list-of-cybersecurity-authorities)
-
-[Table 4: Eventual Requested Information by Authorities	18](#table-4:-eventual-requested-information-by-authorities)
-
-[Table 5: List of reporting obligations depending on steward’s activity	19](#table-5:-list-of-reporting-obligations-depending-on-steward’s-activity)
-
-# Executive Summary {#executive-summary}
-
-The EU’s Cyber Resilience Act (CRA) is one of the most consequential pieces of legislation recently drafted and put into force. It combines cybersecurity hygiene, best practices, vulnerability reporting, and documentation requirements that may be unfamiliar to many that work exclusively upstream. Please first consult the [LF CRA Stewards ED/GM One-Pager](https://docs.google.com/document/d/1xVx7V1sHoIYsztLYSMEb_HAAgw9FjBraJDwW7tz3i-k/) for more concise instructions. This playbook is designed to provide more in-depth details and instructions on how an Open Source Steward can fulfill their obligations, both under the law, but as well to the projects that are housed beneath them as well as the community of members and other participants within the ecosystem. 
+The EU’s Cyber Resilience Act (CRA) is one of the most consequential pieces of legislation recently drafted and put into force. It combines cybersecurity hygiene, best practices, vulnerability reporting, and documentation requirements that may be unfamiliar to many that work exclusively upstream. Please first consult the [LF CRA Stewards ED/GM One-Pager](openssf-as-stewards.html) for more concise instructions. This playbook is designed to provide more in-depth details and instructions on how an Open Source Steward can fulfill their obligations, both under the law, but as well to the projects that are housed beneath them as well as the community of members and other participants within the ecosystem. 
 
 The CRA created a new role, the Open Source Steward to help support upstream projects, maintainers and contributors but also the downstream projects and the manufacturers:
 
@@ -77,9 +23,9 @@ Stewards are formally recognized as entities that can support the compliance eff
 
 Where a specific FOSS is neither placed on the market within the meaning of the CRA nor meets the criteria for stewardship, the legal person is not subject to obligations under the CRA in relation to that FOSS. Not every project needs a Steward. Some stewards will support multiple projects within their community. The flowchart below is a starting point for clarifying if you are a steward or a manufacturer or both.
 
-![][image1]
+![Figure 1 Manufacturer vs Steward](images/figure-1-manufacturer-vs-steward.png "Figure 1: Manufacturer vs Steward")
 
-#### Figure 1: Manufacturer vs steward [^1] {#figure-1:-manufacturer-vs-steward}
+#### Figure 1: Manufacturer vs s\Steward [^1]
 
 Further guidance will be provided by the European Commission on their [CRA Implementation webpage.](https://digital-strategy.ec.europa.eu/en/factpages/cyber-resilience-act-implementation)
 
