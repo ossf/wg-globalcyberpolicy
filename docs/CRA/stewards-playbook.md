@@ -276,7 +276,7 @@ CRA compliance will rely heavily on evidence. Consequently, OSS stewards should 
 
  Documentation should be retained in accordance with applicable legal and organizational retention policies and be available for review by competent authorities upon request.
 
-   ### 3.2Coordinated Public Vulnerability Reporting Policy & Process
+   ### 3.2 Coordinated Public Vulnerability Reporting Policy & Process
 
 While Coordinated Vulnerability Disclosure (CVD) is not explicitly mandated by the CRA, it provides a practical and effective mechanism for fulfilling CRA reporting and communication obligations. New vulnerabilities are discovered in the digital landscape on a daily basis, potentially exposing users to attacks that can compromise data or disrupt essential systems. The EU CSIRTs Network and ENISA advise that reported vulnerabilities and incidents be handled cooperatively and in coordination with the affected vendors or manufacturers, following Responsible/Coordinated Vulnerability Disclosure principles. CVD plays a vital role in safeguarding users by ensuring that vulnerabilities are only made public after appropriate fixes, patches, or mitigation measures have been developed and implemented by responsible parties.
 
@@ -363,7 +363,7 @@ Through guidance, tooling, training, and collaboration, OpenSSF helps align upst
 ## Checklist
 
 |  | My Legal Entity Steward is:  |  |
-| :---: | :---- | :---- |
+| :---: | :---- | :-------------------------: |
 |  | The projects within my scope of stewardship are:  |  |
 |  | My Vulnerability and Incident Reporting Policy can be publicly found here:  |  |
 |  | If different, my cybersecurity policy can be consulted here:  |  |
