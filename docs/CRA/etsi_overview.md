@@ -1,4 +1,7 @@
-# ETSI Overview
+---
+layout: page
+title: ETSI Overview
+---
 
 # Basics
 

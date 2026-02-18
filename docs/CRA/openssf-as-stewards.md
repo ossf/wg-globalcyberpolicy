@@ -1,4 +1,7 @@
-# OpenSSF and The Linux Foundation as Stewards
+---
+layout: page
+title: OpenSSF and The Linux Foundation as Stewards
+---
 
 If your project does not yet have a stewarding organization, **The Linux Foundation (incl. OpenSSF) and The Linux Foundation Europe, are happy to accommodate it.** While the CRA has arranged a lighter regime for open source projects that are not commercialized directly, the communities and their developers are responsible for ensuring the essential security practices. Aligning with the efforts driven by OpenSSF, or wider-speaking, by The Linux Foundation, the projects can benefit from guidance, support, technical clarity, and governance needed to navigate the CRA complexities without compromising independence. We will try to absorb the legal complexity for your projects, letting you focus on innovation, coding, marketing and partnerships. The Linux Foundation and OpenSSF, bring together in their works security researchers, regulators, open source maintainers, manufacturers creating the bridge between all these categories, a key enabler for establishing a trustworthy and complete approach for navigating CRA compliance.  
 
