@@ -9,7 +9,7 @@ title: European Union Cyber Resilience Act (CRA)
 - [European Commission FAQ Document - v1](https://ec.europa.eu/newsroom/dae/redirection/document/122331)
 
 ## Stewards Guidance
-- [OpenSSF and The Linux Foundation as Stewards Summary](openssf-as-stewards.html)
+- [The Linux Foundation Leaadership CRA Stewards One Pager](stewards-one-pager.html)
 - [The Linux Foundation CRA Stewards Playbook](stewards-playbook.html)
 
 ## Standards
