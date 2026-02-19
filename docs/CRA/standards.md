@@ -1,4 +1,7 @@
-# CRA Standards Map
+---
+layout: page
+title: CRA Standards Map
+---
 
 The European Telecommunications Standards Institute (ETSI) is one of the three European Standards Organizations (ESOs) and alongside CEN and CENELEC responsible for developing and defining voluntary standards at the European level – CEN with focus on general standards, CENELEC on electrotechnical standards, and ETSI on telecommunications. The role of ESOs is to support EU regulation and policies through the production of harmonised European Standards (ENs) and other deliverables. The standards developed by ESOs are the only ones that can be recognized as ENs.
 

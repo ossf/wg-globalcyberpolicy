@@ -1,4 +1,7 @@
-# The Linux Foundation CRA Stewards Playbook
+---
+layout: page
+title: The Linux Foundation CRA Stewards Playbook
+---
 
 Congratulations\!  You get to be an open source Steward as outlined within the [EU’s Cyber Resilience Act (CRA)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3). You are vitally important in supporting upstream projects, developers, and maintainers as they go about the task of maintaining and creating innovative solutions that solve the world’s problems. The Steward role was recognized early on by EU policymakers as distinct from the software creators and the commercial organizations that sell products using those technologies.
 
@@ -97,7 +100,7 @@ Through these voluntary yet essential contributions, stewards evolve from compli
 
 The list of obligations can be found at the next link as well: [OSS Stewards Obligations Checklist](https://policy.openssf.org/CRA/checklists/OSS_Stewards_Obligations_Checklist.html) 
 
-## CRA Glossary of Terms[^2]
+### CRA Glossary of Terms[^2]
 
 **Manufacturer** means a natural or legal person who develops or manufactures products with digital elements or has products with digital elements designed, developed or manufactured, and markets them under its name or trademark, whether for payment, monetisation or free of charge
 
@@ -111,7 +114,7 @@ The list of obligations can be found at the next link as well: [OSS Stewards Obl
 
 All CRA-related definitions can be found in the [CRA’s Article 3](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3). Further ones will be provided in the CEN’s Vocabulary deliverable 40000-1-1. 
 
-## 1. Cybersecurity Policy
+### 1. Cybersecurity Policy
 
 [Article 24.1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_24) states:
 
@@ -135,9 +138,9 @@ This policy typically takes the form of a security.md or security.txt file at th
 [OpenSSF Vulnerability Disclosures CVD guide for Open Source Projects and Maintainers](https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme)   
 [OpenSSF Vulnerability Disclosure CVD Guide Policy Templates](https://github.com/ossf/oss-vulnerability-guide/tree/main/templates/security_policies)
 
-## 2. Cooperation with Authorities
+### 2. Cooperation with Authorities
 
-   ### 2.1 Entities that are involved
+#### 2.1 Entities that are involved
 
 There are several key entities that are involved in this EU cyber legislation and the enforcement of it across the Union:
 
@@ -158,7 +161,7 @@ There are several key entities that are involved in this EU cyber legislation an
 
 These authorities will have a crucial role in ensuring that PDEs placed on the EU market comply with the requirements set by the CRA. The cooperation with these organizations and, implicitly, the communication between the authorities and the open source communities are representing the essence of the steward role. In this way, stewards are providing support and guidance for software having commercial intent (which means that it is targeted to be integrated into products and/or services).  
 
-   ### 2.2 The EU SRP and National CSIRT designation
+#### 2.2 The EU SRP and National CSIRT designation
 
 The CRA establishes a unified framework for incident and vulnerability reporting through a centralized platform operated by ENISA. According to Article 16(1), this single reporting platform (SRP) will be designed to streamline manufacturers’ notification obligations under Articles 14 and 15, which concern actively exploited vulnerabilities and severe incidents affecting products with digital elements. ENISA is responsible for managing and maintaining the platform’s daily operations, while its architecture allows both Member States and ENISA to integrate their own electronic notification endpoints, ensuring interoperability across the Union.
 
@@ -178,7 +181,7 @@ Pursuant to Article 16(2) of that Regulation, the CSIRT designated by the Member
 
 Through these provisions, the CRA creates a harmonised reporting and coordination structure that enables swift, secure, and coherent communication between manufacturers, national authorities, and ENISA. This system not only reduces administrative complexity but also strengthens the Union’s collective capacity to detect, assess, and mitigate cybersecurity risks associated with products with digital elements.
 
-   ### 2.3 What EU Authorities May Request from a Steward
+#### 2.3 What EU Authorities May Request from a Steward
 
 Under the CRA, OSS Stewards are subject to a distinct and limited compliance regime set out in Article 24\. They are not manufacturers and must not be treated as such. Accordingly, EU authorities may request information from an OSS steward only to the extent necessary to verify compliance with the obligations that actually apply to that role. These requests must remain proportionate, role-based, and directly linked to reporting, coordination, or user-notification duties. Any request that mirrors manufacturer-level conformity, product assurance, or supply-chain accountability checks exceeds the CRA framework applicable to OSS stewards.
 
@@ -220,9 +223,9 @@ It is essential to emphasize that the limited scope of requestable information d
 
 <small>Table 4: Eventual Requested Information by Authorities</small>
 
-## 3. Specific reporting duties for stewards
+### 3. Specific reporting duties for stewards
 
-   ### 3.1 Legal framework for Stewards’ reporting obligations
+#### 3.1 Legal framework for Stewards’ reporting obligations
 
 Under the CRA, OSS stewards are subject to reporting obligations only in specific, clearly defined circumstances. These obligations are not universal and depend on the steward’s factual involvement and operational role.
 
@@ -276,7 +279,7 @@ CRA compliance will rely heavily on evidence. Consequently, OSS stewards should 
 
  Documentation should be retained in accordance with applicable legal and organizational retention policies and be available for review by competent authorities upon request.
 
-   ### 3.2 Coordinated Public Vulnerability Reporting Policy & Process
+#### 3.2 Coordinated Public Vulnerability Reporting Policy & Process
 
 While Coordinated Vulnerability Disclosure (CVD) is not explicitly mandated by the CRA, it provides a practical and effective mechanism for fulfilling CRA reporting and communication obligations. New vulnerabilities are discovered in the digital landscape on a daily basis, potentially exposing users to attacks that can compromise data or disrupt essential systems. The EU CSIRTs Network and ENISA advise that reported vulnerabilities and incidents be handled cooperatively and in coordination with the affected vendors or manufacturers, following Responsible/Coordinated Vulnerability Disclosure principles. CVD plays a vital role in safeguarding users by ensuring that vulnerabilities are only made public after appropriate fixes, patches, or mitigation measures have been developed and implemented by responsible parties.
 
@@ -301,7 +304,7 @@ In accordance with the ENISA and CSIRTs Network, a vulnerability report should i
 9. *Contact information, including secure communication options (PGP fingerprint, etc.)*  
 10. *Any other important information related to the discovered vulnerability”[^5]*
 
-## 4. How Stewards Can Support Downstream Manufacturers
+### 4. How Stewards Can Support Downstream Manufacturers
 
 Although the EU Cyber Resilience Act (CRA) places the majority of legal obligations on manufacturers, downstream actors frequently rely on upstream open source projects and their stewards for information, evidence, and clarity to support conformity assessments and ongoing compliance activities.
 
@@ -362,15 +365,15 @@ Through guidance, tooling, training, and collaboration, OpenSSF helps align upst
 
 ## Checklist
 
-|  | My Legal Entity Steward is:  |  |
-| :---: | :---- | :-------------------------: |
-|  | The projects within my scope of stewardship are:  |  |
-|  | My Vulnerability and Incident Reporting Policy can be publicly found here:  |  |
-|  | If different, my cybersecurity policy can be consulted here:  |  |
-|  | My CSIRT is |  |
-|  | My dedicated security contact for vulnerability and incident reports: |  |
-|  | Does the steward provide development infrastructure? If so, is there an incident response plan for these systems? |  |
-|  | Is the steward actively involved in the Product Development? If so, is that reflected in the cybersecurity policy or in another document?  |  |
+| :---: | :------- | :----------------------------------: |
+| [] | My Legal Entity Steward is:  |  |
+| [] | The projects within my scope of stewardship are:  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| [] | My Vulnerability and Incident Reporting Policy can be publicly found here:  |  |
+| [] | If different, my cybersecurity policy can be consulted here:  |  |
+| [] | My CSIRT is |   |
+| [] | My dedicated security contact for vulnerability and incident reports: |   |
+| [] | Does the steward provide development infrastructure? If so, is there an incident response plan for these systems? |   |
+| [] | Is the steward actively involved in the Product Development? If so, is that reflected in the cybersecurity policy or in another document?  |   |
 
 [^1]:  [Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001)](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit?slide=id.p#slide=id.p) 
 
