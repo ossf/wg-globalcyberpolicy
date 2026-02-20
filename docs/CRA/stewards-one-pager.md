@@ -1,13 +1,13 @@
 ---
 layout: page
-title: The Linux Foundation Leaadership CRA Stewards One Pager
+title: The Linux Foundation Leadership CRA Stewards One Pager
 ---
 
 As the leader of a foundation or project within the Linux Foundation, there are new legal requirements under the EU Cyber Resilience Act (CRA) that we, as open source software stewards\*, must fulfill. Your members and maintainers may have already asked you about what they are required to do under the law.  This document is a quick reference for you to understand the actions you and your group must take prior to the EU Cyber Resilience Act (CRA) reporting deadline for Manufacturers (**Sep 11, 2026**) and when the CRA fully goes into effect (**Dec 11, 2027**):
 
 *\*An ‘open-source software steward’ means a legal person, other than a manufacturer, that has the purpose or objective of systematically providing support on a sustained basis for the development of specific products with digital elements (PDEs), qualifying as free and open-source software and intended for commercial activities, and that ensures the viability of those products [(Article 3.14](https://eur-lex.europa.eu/eli/reg/2024/2847/oj))*
 
-### **The top 10 things to consider by the projects within the Linux Foundation to meet their CRA steward obligations:**
+## The top 10 things to consider by the projects within the Linux Foundation to meet their CRA steward obligations:
 
 1. Confirm your foundation’s legal entity and include it on your foundation’s website. For LF Projects, if you are unsure about who your legal entity is, please  contact your PMO and LF Legal via [https://legalrequests.linuxfoundation.org/](https://legalrequests.linuxfoundation.org/).
 2. Identify which of your foundation’s software projects need a steward.  Not all do, however, if a software project is being used for commercial purposes (as many “graduated” projects are), then it is likely to need a steward.  Consider deploying a [security.md](https://github.com/ossf/oss-vulnerability-guide/tree/main/templates/security_policies),or security.txt  README.md, and/or FAQ about CRA obligations within each such project. Each such software project should identify their foundation (“LF Project”) as their steward. The software project can define its own specialized processes or defer to the general ones defined by its foundation, as long as they meet legal requirements.  
