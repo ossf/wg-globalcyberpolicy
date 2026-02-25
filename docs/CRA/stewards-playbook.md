@@ -306,7 +306,7 @@ In accordance with the ENISA and CSIRTs Network, a vulnerability report should i
 
 ### 4. How Stewards Can Support Downstream Manufacturers
 
-Although the EU Cyber Resilience Act (CRA) places the majority of legal obligations on manufacturers, downstream actors frequently rely on upstream open source projects and their stewards for information, evidence, and clarity to support conformity assessments and ongoing compliance activities.
+Although the CRA places the majority of legal obligations on manufacturers, downstream actors frequently rely on upstream open source projects and their stewards for information, evidence, and clarity to support conformity assessments and ongoing compliance activities.
 
 Stewards and upstream projects are not legally required to produce manufacturer-facing compliance documentation. However, where relevant security, governance, and lifecycle artifacts already exist, making them discoverable and well-structured can significantly reduce downstream friction, improve trust, and increase adoption of open source components.
 
@@ -316,7 +316,7 @@ Stewards are not legally obliged to produce these materials. However, where such
 
 From a downstream manufacturer’s perspective, open source stewards play a critical enabling role by acting as trusted aggregation points for security practices, vulnerability information, and development assurances. Rather than shifting regulatory responsibility upstream, effective stewardship helps manufacturers understand *how* a component is developed, maintained, and secured—information that is essential for risk assessments, technical documentation, and post-market surveillance.
 
-OpenSSF, as a steward, supports downstream manufacturers by:
+A steward should support downstream manufacturers by:
 
 * **Providing clarity on project security posture**  
    Helping projects document and communicate their security practices, development lifecycle assumptions, and vulnerability handling approaches in a consistent and discoverable way.  
@@ -344,7 +344,7 @@ While open source projects and stewards are not required to generate or distribu
 * Accelerate vulnerability triage and remediation  
 * Support conformity assessments and market surveillance activities
 
-OpenSSF promotes the use of widely adopted SBOM formats and tooling, supports automation through CI/CD pipelines, and facilitates discussion across the ecosystem on interoperability, transformation, and evolving SBOM and VEX standards without mandating a single approach for all projects.
+A steward should promote the use of widely adopted SBOM formats and tooling, supports automation through CI/CD pipelines, and facilitates discussion across the ecosystem on interoperability, transformation, and evolving SBOM and VEX standards without mandating a single approach for all projects.
 
 There were some suggestions that stewards issue formal security or compliance statements for the projects they support, including signed files, declarations to selected parties, or registry entries. While stewards can play a constructive role by improving transparency, documentation, and tooling, requiring them to issue formal attestations crosses a critical boundary. Attestations imply assurance and risk management, which stewards are neither positioned nor authorized to assume. Encouraging stewards to issue attestations would effectively shift compliance responsibility upstream, treating non-profit entities as liability intermediaries—contrary to the CRA’s allocation of obligations to manufacturers. Stewards should not certify, warrant, or attest compliance on behalf of downstream users under any circumstances.
 
@@ -357,11 +357,9 @@ A steward could contribute by:
 * Providing guidance and tooling for maintainers and security researchers  
 * Encouraging timely, accurate, and responsible communication of security issues
 
-In cases where open source stewards are involved in development infrastructure or security-relevant services, OpenSSF also supports awareness of the notification duties applicable to stewards under Article 24(3) of the CRA.
+By improving transparency, consistency, and coordination across open source projects, a steward should enable manufacturers to integrate open source components into their products with greater confidence and lower compliance friction. This steward role does **not** shift legal responsibility upstream; rather, it strengthens the overall ecosystem by ensuring that reliable, security-relevant information flows efficiently across the supply chain.
 
-By improving transparency, consistency, and coordination across open source projects, OpenSSF enables manufacturers to integrate open source components into their products with greater confidence and lower compliance friction. This steward role does **not** shift legal responsibility upstream; rather, it strengthens the overall ecosystem by ensuring that reliable, security-relevant information flows efficiently across the supply chain.
-
-Through guidance, tooling, training, and collaboration, OpenSSF helps align upstream open source practices with downstream regulatory realities—supporting cyber resilience without compromising the open source development model or creating unintended liability.
+Through guidance, tooling, training, and collaboration, a steward shall align upstream open source practices with downstream regulatory realities, supporting cyber resilience without compromising the open source development model or creating unintended liability.
 
 ## Checklist
 
