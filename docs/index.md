@@ -10,6 +10,7 @@ This is a list of materials (documents, services, and so on) released by the
 
 - [OpenSSF CRA Blog and Resources](https://openssf.org/public-policy/eu-cyber-resilience-act/)
 - [CRA Documents](/CRA)
+- [CRA Brief Guide for OSS Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers)
 
 ## Contributing
 
