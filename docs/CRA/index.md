@@ -7,6 +7,7 @@ title: European Union Cyber Resilience Act (CRA)
 - [OpenSSF CRA Blog](https://openssf.org/category/policy/cra/)
 - [European Commission CRA Implementation Website](https://digital-strategy.ec.europa.eu/en/factpages/cyber-resilience-act-implementation)
 - [European Commission FAQ Document - v1](https://ec.europa.eu/newsroom/dae/redirection/document/122331)
+- [CRA Experts Group](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3967)
 
 ## Stewards Guidance
 - [The Linux Foundation Leadership CRA Stewards One Pager](stewards-one-pager.html)
