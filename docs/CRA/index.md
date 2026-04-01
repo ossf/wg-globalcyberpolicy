@@ -18,6 +18,7 @@ title: European Union Cyber Resilience Act (CRA)
 - [ETSI Overview](etsi_overview.html)
 - [CRA Standards Map](standards.html)
 - [Standardization Special Interest Group Updates](https://github.com/ossf/wg-globalcyberpolicy/tree/main/docs/CRA/presentations/standardization-sig/)
+- [OpenSSF Feedback on Draft Standards](https://github.com/ossf/wg-globalcyberpolicy/tree/main/docs/CRA/files/standards-feedback/)
 
 ## Checklists
 - [OSS Stewards Obligations Checklist](checklists/OSS_Stewards_Obligations_Checklist.html)
