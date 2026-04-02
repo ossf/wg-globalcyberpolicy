@@ -15,9 +15,9 @@ title: European Union Cyber Resilience Act (CRA)
 - [The Linux Foundation CRA Stewards Playbook](stewards-playbook.html)
 
 ## Standards
-- [ETSI Overview](etsi_overview.html)
 - [CRA Standards Map](standards.html)
 - [Standardization Special Interest Group Updates](https://github.com/ossf/wg-globalcyberpolicy/tree/main/docs/CRA/presentations/standardization-sig/)
+- [ESOs Overview](eso-overview.html)
 - [OpenSSF Feedback on Draft Standards](https://github.com/ossf/wg-globalcyberpolicy/tree/main/docs/CRA/files/standards-feedback/)
 
 ## Checklists
@@ -36,3 +36,7 @@ title: European Union Cyber Resilience Act (CRA)
 - [CSIRTs Network](https://csirtsnetwork.eu/)
 - [Implementing regulation (EU) 2025/2392](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R2392&qid=1764577062755): Technical description of the categories of important and critical products with digital elements
 - [Delegated act on terms and conditions for CSIRTs](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=PI_COM%3AC%282025%298407&qid=1765524819538):  Specifies the terms and conditions for applying the cybersecurity-related grounds in relation to delaying the dissemination of notifications
+
+## CRA Timeline
+
+![CRA Timeline](images/cra-timeline.png "CRA Timeline")
