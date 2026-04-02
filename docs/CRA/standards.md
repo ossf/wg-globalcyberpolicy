@@ -10,7 +10,9 @@ The European Telecommunications Standards Institute (ETSI) is one of the three E
 * Online consultation platform on working drafts: [https://labs.etsi.org/rep/stan4cra/](https://labs.etsi.org/rep/stan4cra/)
 * Deep dives: [https://www.stan4cra.eu/events](https://www.stan4cra.eu/events)
 
-Below is a mapping of the European standards for the CRA to the ESO technical committees responsible for the standards. For more about the ESO's, committees and types of standards see also the [ETSI Overview](/CRA/etsi_overview.html).
+![CRA Standards Diagram](images/standards-diagram.png "CRA Standards Diagram")
+
+Below is a mapping of the European standards for the CRA to the ESO technical committees responsible for the standards. For more about the ESO's, committees and types of standards see also the [ESOs Overview](/CRA/eso-overview.html).
 
 **CRA Work Items**
 
