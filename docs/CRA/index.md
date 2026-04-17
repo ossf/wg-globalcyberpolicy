@@ -20,6 +20,9 @@ title: European Union Cyber Resilience Act (CRA)
 - [ESOs Overview](eso-overview.html)
 - [OpenSSF Feedback on Draft Standards](https://github.com/ossf/wg-globalcyberpolicy/tree/main/docs/CRA/files/standards-feedback/)
 
+## For Maintainers
+- [CRA Readiness Guidelines for Maintainers and Developers](maintainers.html)
+
 ## Checklists
 - [OSS Stewards Obligations Checklist](checklists/OSS_Stewards_Obligations_Checklist.html)
 - [PSIRT Obligations Checklist](checklists/PSIRT_Obligations_Checklist.html)
