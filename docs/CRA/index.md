@@ -6,7 +6,8 @@ title: European Union Cyber Resilience Act (CRA)
 ## CRA Updates
 - [OpenSSF CRA Blog](https://openssf.org/category/policy/cra/)
 - [European Commission CRA Implementation Website](https://digital-strategy.ec.europa.eu/en/factpages/cyber-resilience-act-implementation)
-- [European Commission FAQ Document - v1](https://ec.europa.eu/newsroom/dae/redirection/document/122331)
+- [European Commission CRA Guidance](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-new-guidance-support-timely-cyber-resilience-act-implementation)
+- [European Commission CRA FAQ](https://ec.europa.eu/newsroom/dae/redirection/document/122331)
 - [CRA Experts Group](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3967)
 - [OpenSSF Presentations](https://github.com/ossf/wg-globalcyberpolicy/tree/main/docs/CRA/presentations/)
 
