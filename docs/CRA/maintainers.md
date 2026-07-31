@@ -73,22 +73,18 @@ Ideally, the CRA Readiness needs to be documented in both human-readable and mac
 ### Human-readable (default option)
 
 Simply create a file in your repo that contains the table (checklist) above. Link this file from your readme.md for easy navigation. To avoid any misunderstanding, include a clear disclaimer stating:
+> [!IMPORTANT]
+>**This project voluntarily documents its security practices.**
+The documentation and the software are provided “as is” and “as available” for  for transparency only, with no warranty or guarantee of any kind. The maintainers and contributors of this project have no obligations under the EU Cyber Resilience Act (CRA); are not manufacturers, importers, distributors, or other economic operators under the CRA; act on a voluntary, non-commercial basis and are not obliged to maintain, update, or provide security support for the software; and give no CRA or other compliance assurances and no guarantee that the software is free of vulnerabilities.
+>
+>**Common-law jurisdictions.** To the fullest extent permitted by law, the software and documentation are provided “AS IS”, all implied warranties — including MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, and NON-INFRINGEMENT — are disclaimed, and the maintainers and contributors accept no liability for any direct, indirect, incidental, or consequential damages arising from the software or documentation. This statement creates no contractual relationship, duty of care, or assumption of responsibility.
+>
+>**Civil-law jurisdictions.** As the software and documentation are supplied free of charge, no warranty is given and the maintainers and contributors are not liable. Liability that cannot be excluded under mandatory law — in particular for injury to life, body, or health, and under statutory product-liability law — remains unaffected. Making the software or documentation available creates no contractual relationship or assumption of responsibility.
+>
+>**Anyone incorporating this software into a product or commercial offering is solely responsible for that product, including regulatory compliance, risk and conformity assessment, and vulnerability handling.**
 
-*"This project voluntarily documents its security practices.
-This information is provided "as is", without warranties or guarantees.
 
-The maintainers and contributors:
-
-- have no obligations under the EU CRA,
-- are not Manufacturers, Importers, or Economic Operators,
-- assume no financial, contractual, or legal liability,
-- and do not provide CRA compliance assurances.
-
-Entities incorporating this software into commercial products remain solely responsible for regulatory compliance, risk assessment, and vulnerability management."*
-
-The above statement can be complemented with the additional legal references ([Example can be found here](https://cra.orcwg.org/faq/maintainers/transparency/)).
-
-Optionally, the good practice is to create a separate file (Example of a CNCF project security self-assessment.md) that compiles your project security posture, secure development processes, threat model and related details, where you can also add or link the Checklist Table above.
+Optionally, the good practice is to create a separate file ([Example of a CNCF project security self-assessment.md](https://github.com/cncf/tag-security/blob/main/community/assessments/guide/self-assessment.md)) that compiles your project security posture, secure development processes, threat model and related details, where you can also add or link the Checklist Table above.
 
 ### Machine-readable (advanced option)
 
