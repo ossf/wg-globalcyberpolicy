@@ -83,8 +83,6 @@ _**Civil-law jurisdictions.** As the software and documentation are supplied fre
 
 _**Anyone incorporating this software into a product or commercial offering is solely responsible for that product, including regulatory compliance, risk and conformity assessment, and vulnerability handling.**_
 
-The above statement can be complemented with the additional legal references ([Example can be found here](https://cra.orcwg.org/faq/maintainers/transparency/)).
-
 Optionally, the good practice is to create a separate file ([Example of a CNCF project security self-assessment.md](https://github.com/cncf/tag-security/blob/main/community/assessments/guide/self-assessment.md)) that compiles your project security posture, secure development processes, threat model and related details, where you can also add or link the Checklist Table above.
 
 ### Machine-readable (advanced option)
