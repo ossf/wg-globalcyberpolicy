@@ -21,11 +21,31 @@ The CRA created a new role, the Open Source Steward to help support upstream pro
 
 This category reflects the “importance for cybersecurity of many products with digital elements qualifying as free and open source software that are published, but not made available on the market within the meaning of the \[CRA\]” (recital 19). A legal person may qualify as a steward only in relation to products with digital elements that constitute FOSS and are published, but not made available on the market within the meaning of the CRA.
 
+For CRA purposes, software qualifies as FOSS only where both of the following conditions are met:
+- FOSS license: the software is made available under a free and open source license that provides the rights to make it freely accessible, usable, modifiable, and redistributable; and
+- Openly shared source code: the source code is openly shared and publicly available, either upstream or downstream.
+An open source license alone is therefore not sufficient. Where software is distributed under a free and open-source license but its source code is available only to paying customers or a limited group of users, the software does not qualify as FOSS for the purposes of the CRA.
+
+Once software has been established as FOSS under Article 3(48), the next step is to determine which natural or legal person, if any, has responsibility for that specific FOSS under the CRA. Responsibility should not be attributed solely on the basis of contributing source code or having technical access to a repository. The relevant consideration is who publishes the FOSS and exercises primary control over its development, releases, and distribution decisions.
+
 A legal person may simultaneously assume different roles under the CRA: it may be a steward for one FOSS project and a manufacturer for another, including different versions of the same software (such as community and monetised versions). For each FOSS it publishes, the legal person must assess whether the software is made available on the market (triggering manufacturer obligations) or, if not, whether it is intended for commercial activities and supported in a manner that meets the definition of steward.
+
+Before treating a FOSS project as being supported by a steward, check whether the FOSS itself is supplied as part of a commercial activity. A project may be free to use and still be placed on the market if, for example:
+- a price is charged for the software or pre-compiled binaries;
+- access to a paid or enhanced version is provided;
+- access to important functionality or updates requires payment;
+- the software is used to monetise other products or services;
+- use of the software requires personal-data processing for purposes unrelated to security, compatibility or interoperability; or
+- donations effectively become a condition for accessing the software, essential functionality or updates.
+If the FOSS is freely available and is not otherwise monetised, it may not be placed on the market. In that case, assess whether the organization qualifies as a steward.
 
 [Recital 19](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#rct_19) clarifies that sustained support includes activities such as hosting or managing development platforms, hosting source code or software, governing or managing FOSS projects, and steering their development. Foundations or other legal entities that provide such support for specific FOSS intended for commercial activities may therefore qualify as stewards in relation to those projects.
 
 Stewards are formally recognized as entities that can support the compliance efforts of open source software projects and shared digital components. The regulation assigns them a limited but essential set of legal obligations, primarily focused on ensuring that secure development and vulnerability handling processes are in place, and that relevant information can be communicated effectively to market surveillance authorities when required. These obligations aim to establish a clear line of accountability for the security posture of software elements that may be integrated into products placed on the Union market. In fulfilling these duties, stewards act as a bridge between open source or collaborative development environments and the regulatory compliance expectations imposed on commercial manufacturers. 
+
+Steward status is assessed for each specific FOSS project and can change over time.
+If a steward stops providing systematic support on a sustained basis to a specific FOSS project, it may no longer meet the definition of a steward for that project. The organisation should clearly communicate the change in its role to the project and relevant stakeholders.
+A steward may also become a Manufacturer if it later starts monetising the FOSS and places it on the EU market. In that case, the organisation becomes the Manufacturer from the point at which it places the FOSS on the market. This does not make it the Manufacturer of earlier versions for which it acted as a steward.
 
 Where a specific FOSS is neither placed on the market within the meaning of the CRA nor meets the criteria for stewardship, the legal person is not subject to obligations under the CRA in relation to that FOSS. Not every project needs a Steward. Some stewards will support multiple projects within their community. The flowchart below is a starting point for clarifying if you are a steward or a manufacturer or both.
 
@@ -53,11 +73,11 @@ In more plain language, here is what the Steward’s obligations come down to:
 1. Have a vulnerability reporting process and publicly posted policy.  
 2. Have a single point of contact for reporting and inquiring about vulnerabilities (e.g. [https://www.linuxfoundation.org/security](https://www.linuxfoundation.org/security))  
 3. If approached by EU officials (Market Surveillance Authority (MSA), ENISA, National CSIRT, etc.) provide requested information.  
-4. If a project is known to be actively exploited or if underlying Foundation infrastructure (e.g. CI/CD systems, websites, etc.) has suffered a cybersecurity incident, report to the ENISA Single Reporting Platform (SRP).
+4. If the steward is involved in development of that product and becomes aware of an actively exploited vulnerability contained in it or if underlying network and information systems provided by the steward for development (e.g. CI/CD systems, websites, etc.) has suffered a cybersecurity severe incident, report to the ENISA Single Reporting Platform (SRP).
 
 We will cover each of these requirements in more detail below.
 
-Within the CRA, multiple roles are defined. Predominantly, the most requirements fall on the Manufacturer category. A Manufacturer places a Product with Digital Elements (PDE) onto the (EU) Market and sells goods/services to consumers. This document focuses on the Open Source Steward role, but several of the requirements are similar between the two roles.  
+Within the CRA, multiple economic-operator roles are defined, with the Manufacturer generally having the broadest set of obligations. A Manufacturer is the natural or legal person that develops or manufactures a Product with Digital Elements (PDE), or has it designed or developed, and places it on the EU market under its own name or trademark in the course of a commercial activity. This document focuses on the Open Source Steward role, but several of the requirements are similar between the two roles.  
 
 ![Figure 2 Manufacturer vs Steward](images/figure-2-manufacturer-vs-steward.png "Figure 2: Manufacturer vs Steward")
 
@@ -91,7 +111,7 @@ Through these voluntary yet essential contributions, stewards evolve from compli
 | *Vuln Reporting* | [Article 15](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_15) |  Where a natural or legal person other than the manufacturer notifies an actively exploited vulnerability or a severe incident having an impact on the security of a product with digital elements in accordance with paragraph 1 or 2, the CSIRT designated as coordinator shall without undue delay inform the manufacturer. | *notify ENISA \+ National CSIRT contact about active exploited vulns* |
 | *Vuln Reporting* | [Article 15](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_15) |  The CSIRTs designated as coordinators as well as ENISA shall ensure the confidentiality and appropriate protection of the information provided by a notifying natural or legal person. Without prejudice to the prevention, investigation, detection and prosecution of criminal offences, voluntary reporting shall not result in the imposition of any additional obligations upon a notifying natural or legal person to which it would not have been subject had it not submitted the notification. | *CSIRTs may contact Stewards for assistance* |
 | *Vuln Reporting* | [Article 14](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14) |  A manufacturer shall notify any actively exploited vulnerability contained in the product with digital elements that it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this Article, and to ENISA. The manufacturer shall notify that actively exploited vulnerability via the single reporting platform established pursuant to Article 16\. | *establish an EU National CSIRT contact, report known actively exploited vulns to EU National CSIRT contact and ENISA* |
-| *Vuln Reporting* | [Article 14](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14) | For the purposes of the notification referred to in paragraph 1, the manufacturer shall submit: an early warning notification of an actively exploited vulnerability, without undue delay and in any event within 24 hours of the manufacturer becoming aware of it, indicating, where applicable, the Member States on the territory of which the manufacturer is aware that their product with digital elements has been made available; unless the relevant information has already been provided, a vulnerability notification, without undue delay and in any event within 72 hours of the manufacturer becoming aware of the actively exploited vulnerability, which shall provide general information, as available, about the product with digital elements concerned, the general nature of the exploit and of the vulnerability concerned as well as any corrective or mitigating measures taken, and corrective or mitigating measures that users can take, and which shall also indicate, where applicable, how sensitive the manufacturer considers the notified information to be; © unless the relevant information has already been provided, a final report, no later than 14 days after a corrective or mitigating measure is available, including at least the following: a description of the vulnerability, including its severity and impact; where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability; details about the security update or other corrective measures that have been made available to remedy the vulnerability. | *establish an EU National CSIRT contact, report “severe” vulns to EU National CSIRT contact and ENISA* |
+| *Vuln Reporting* | [Article 14](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14) | For the purposes of the notification referred to in paragraph 1, the manufacturer shall submit: an early warning notification of an actively exploited vulnerability, without undue delay and in any event within 24 hours of the manufacturer becoming aware of it, indicating, where applicable, the Member States on the territory of which the manufacturer is aware that their product with digital elements has been made available; unless the relevant information has already been provided, a vulnerability notification, without undue delay and in any event within 72 hours of the manufacturer becoming aware of the actively exploited vulnerability, which shall provide general information, as available, about the product with digital elements concerned, the general nature of the exploit and of the vulnerability concerned as well as any corrective or mitigating measures taken, and corrective or mitigating measures that users can take, and which shall also indicate, where applicable, how sensitive the manufacturer considers the notified information to be; © unless the relevant information has already been provided, a final report, no later than 14 days after a corrective or mitigating measure is available, including at least the following: a description of the vulnerability, including its severity and impact; where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability; details about the security update or other corrective measures that have been made available to remedy the vulnerability. | *establish an EU National CSIRT contact, report actively exploited vulns to EU National CSIRT contact and ENISA* |
 | *Vuln Reporting* | [Article 14](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14) |  A manufacturer shall notify any severe incident having an impact on the security of the product with digital elements that it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this Article, and to ENISA. The manufacturer shall notify that incident via the single reporting platform established pursuant to Article 16\. | *notify end-consumers of “severe” vulnerabilities* |
 | *Vuln Reporting* | [Article 14](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14) | After becoming aware of an actively exploited vulnerability or a severe incident having an impact on the security of the product with digital elements, the manufacturer shall inform the impacted users of the product with digital elements, and where appropriate all users, of that vulnerability or incident and, where necessary, of any risk mitigation and corrective measures that the users can deploy to mitigate the impact of that vulnerability or incident, where appropriate in a structured, machine-readable format that is easily automatically processable. Where the manufacturer fails to inform the users of the product with digital elements in a timely manner, the notified CSIRTs designated as coordinators may provide such information to the users when considered to be proportionate and necessary for preventing or mitigating the impact of that vulnerability or incident. | *Notification of impacted users* |
 | *Market Surveillance*  | [Article 52](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_52) | The market surveillance authorities designated under paragraph 2 of this Article shall also be responsible for carrying out market surveillance activities in relation to the obligations for open-source software stewards laid down in Article 24\. Where a market surveillance authority finds that an open-source software steward does not comply with the obligations set out in that Article, it shall require the open-source software steward to ensure that all appropriate corrective actions are taken. Open-source software stewards shall ensure that all appropriate corrective action is taken in respect of their obligations under this Regulation. | *Stewards found non-compliant must take corrective actions to respect obligations* |
@@ -159,7 +179,19 @@ There are several key entities that are involved in this EU cyber legislation an
 
 <small>Table 3: List of cybersecurity authorities</small>
 
-These authorities will have a crucial role in ensuring that PDEs placed on the EU market comply with the requirements set by the CRA. The cooperation with these organizations and, implicitly, the communication between the authorities and the open source communities are representing the essence of the steward role. In this way, stewards are providing support and guidance for software having commercial intent (which means that it is targeted to be integrated into products and/or services).  
+These authorities will have a crucial role in ensuring that PDEs placed on the EU market comply with the requirements set by the CRA. Cooperation with these organisations, and the communication between authorities and open source communities, are therefore an important part of the steward role. Stewards should be prepared to communicate with market surveillance authorities (MSAs) and to provide relevant information about the FOSS projects they support. As a practical matter, stewards should:
+
+- Designate a contact point for communications with MSAs;
+- Keep relevant project and steward documentation easy to access;
+- Maintain an up-to-date description of the projects they support and the role they play in those projects;
+- Keep their cybersecurity policy and related procedures available;
+- Define who is responsible for coordinating responses to requests from authorities;
+- Keep records of significant communications and actions taken in response; and
+- Coordinate with project maintainers and other relevant contributors when a request concerns a specific FOSS project.
+
+Stewards should also have a process for responding to requests and for identifying when legal or regulatory expertise is needed.
+This playbook provides practical recommendations for preparing for these interactions and is not intended to replace legal advice or the procedures applicable to market surveillance authorities.
+Stewards provide support and guidance for FOSS intended for use in commercial activities, such as integration into commercial products or services. 
 
 #### 2.2 The EU SRP and National CSIRT designation
 
@@ -246,12 +278,27 @@ Put more simply, depending on their level of involvement, OSS Stewards may have 
 | :---: | :---: | :---: |
 | Actively involved in development of a product with digital elements | Art. 24.3 \+ Art. 14(1) | Report actively exploited vulnerabilities affecting that product |
 | Operating infrastructure used to develop OSS (CI, repos, build systems) | Art. 24.3 \+ Art. 14(3), (8) | Report severe incidents affecting steward-operated infrastructure. |
-| Passive hosting or mirroring only | None | No CRA reporting obligation |
+| Non-technical support (Governance, branding, community events, donations, community management) | None | No CRA reporting obligation |
 | Downstream proprietary product affected by OSS vulnerability | Indirect | Disclosure encouraged, not mandated |
 
 <small>Table 5: List of reporting obligations depending on steward’s activity</small>
 
-OSS stewards should establish internal procedures to ensure timely identification, triage, and escalation of vulnerabilities and incidents that may trigger CRA reporting obligations. As a best practice, OSS stewards should:
+The obligations that apply to a steward depend on the type of support it provides to the FOSS project. Being a steward does not automatically mean that all Article 14 reporting obligations apply. Stewards should therefore assess their activities for each project and identify which reporting obligations apply to them.
+
+A steward that only provides non-technical support, such as governance or community management, is not required to report an actively exploited vulnerability under Article 14(1) merely because it is a steward. A steward that provides development infrastructure may have reporting obligations for severe incidents affecting that infrastructure. A steward that provides engineering resources or is directly involved in development, releases, or vulnerability handling may have obligations to report actively exploited vulnerabilities under Article 14(1).
+
+OSS stewards should establish internal procedures to ensure timely identification, triage, and escalation of vulnerabilities and incidents that may trigger CRA reporting obligations. 
+Where the relevant Article 14 reporting obligations apply to the steward under Article 24(3), these procedures should include clear timelines:
+- Actively exploited vulnerability (AEV):
+     - Within 24 hours: submit the early warning;
+     - Within 72 hours: submit the vulnerability notification;
+     - Within 14 days after a corrective or mitigating measure is available: submit the final report.
+- Severe incident:
+    - Within 24 hours: submit the early warning;
+    - Within 72 hours: submit the incident notification;
+    - Within 1 month after a corrective or mitigating measure is available: submit the final report.
+
+As a best practice, OSS stewards should:
 
 - Acknowledge vulnerability reports within a defined timeframe  
 - Rapidly assess whether a vulnerability is:  
@@ -260,6 +307,7 @@ OSS stewards should establish internal procedures to ensure timely identificatio
   - Affecting steward-operated infrastructure  
 - Escalate potentially reportable issues to a designated CRA response team
 
+These mandatory reporting timelines should be distinguished from voluntary vulnerability reporting under Article 15, which is a separate mechanism. 
 Where Article 14(8) becomes applicable for OSS stewards, they must ensure that impacted users are informed in a timely and effective manner through:
 
 - Publication of machine-readable security advisories in project repositories;  
@@ -327,7 +375,8 @@ A steward should support downstream manufacturers by:
 * **Acting as a coordination layer**  
    Supporting communication between upstream projects, downstream manufacturers, security researchers, and—where appropriate—regulatory stakeholders, without transferring legal responsibility away from manufacturers.
 
-Manufacturers are required under the CRA to produce and retain extensive technical documentation, perform risk assessments, manage vulnerabilities, and report severe incidents. While these obligations do not apply to open source stewards, downstream manufacturers will often need upstream’s help to complete those assessments.
+Manufacturers are required under the CRA to produce and retain technical documentation, perform risk assessments, manage vulnerabilities, and report severe incidents for their own products. When a manufacturer integrates a FOSS component, the integration does not change the CRA status of that component. The manufacturer remains responsible for its own product and for the obligations that apply to the use of the FOSS component, including the due diligence required under Article 13(5) and the vulnerability-related obligations under Article 13(6).
+Stewards can support manufacturers by providing relevant security, lifecycle, and vulnerability information about the FOSS components they maintain. This support helps manufacturers fulfil their own obligations without transferring responsibility for the manufacturer's product or the individual CRA compliance of the FOSS component to the steward.
 
 A steward’s approach should be to **enable (and not replace) manufacturer obligations** by:
 
@@ -348,7 +397,7 @@ A steward should promote the use of widely adopted SBOM formats and tooling, sup
 
 There were some suggestions that stewards issue formal security or compliance statements for the projects they support, including signed files, declarations to selected parties, or registry entries. While stewards can play a constructive role by improving transparency, documentation, and tooling, requiring them to issue formal attestations crosses a critical boundary. Attestations imply assurance and risk management, which stewards are neither positioned nor authorized to assume. Encouraging stewards to issue attestations would effectively shift compliance responsibility upstream, treating non-profit entities as liability intermediaries—contrary to the CRA’s allocation of obligations to manufacturers. Stewards should not certify, warrant, or attest compliance on behalf of downstream users under any circumstances.
 
-The CRA introduces time-sensitive obligations for manufacturers related to known exploited vulnerabilities and severe incidents. While manufacturers retain the legal duty to notify authorities and users, stewards can significantly support these efforts by fostering robust vulnerability disclosure ecosystems.
+The CRA introduces time-sensitive obligations for manufacturers related to known exploited vulnerabilities and severe incidents. While manufacturers retain responsibility for their own products and the applicable reporting obligations, stewards can significantly support these efforts by fostering robust vulnerability disclosure ecosystems and making relevant vulnerability information available to downstream manufacturers.
 
 A steward could contribute by:
 
@@ -372,6 +421,9 @@ Through guidance, tooling, training, and collaboration, a steward shall align up
 | [] | My dedicated security contact for vulnerability and incident reports: |   |
 | [] | Does the steward provide development infrastructure? If so, is there an incident response plan for these systems? |   |
 | [] | Is the steward actively involved in the Product Development? If so, is that reflected in the cybersecurity policy or in another document?  |   |
+| [] | Are reporting obligations clarified? Could any of the articles 14(1), 14(3) and/or art 14(8) apply?  |   |
+| [] | Is the SRP reporting procedure documented? Are the 24h/72h/final-report procedures operational?  |   |
+| [] | Is voluntary Article 15 reporting addressed separately?  |   |
 
 [^1]:  [Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001)](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit?slide=id.p#slide=id.p) 
 
@@ -382,3 +434,5 @@ Through guidance, tooling, training, and collaboration, a steward shall align up
 [^4]:  [https://csirtsnetwork.eu/homepage](https://csirtsnetwork.eu/homepage) 
 
 [^5]:  [https://csirtsnetwork.eu/homepage?tab=cvd](https://csirtsnetwork.eu/homepage?tab=cvd) 
+
+[^6]:  [https://ec.europa.eu/newsroom/dae/redirection/document/131456](https://ec.europa.eu/newsroom/dae/redirection/document/131456) 
