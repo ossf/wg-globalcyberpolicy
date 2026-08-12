@@ -298,6 +298,10 @@ Where the relevant Article 14 reporting obligations apply to the steward under A
     - Within 72 hours: submit the incident notification;
     - Within 1 month after a corrective or mitigating measure is available: submit the final report.
 
+![Figure 5 Reporting timelines](images/figure-5-reporting-timelines.png "Figure 5: Reporting timelines")
+
+<small>Figure 5: Reporting timelines</small>
+
 As a best practice, OSS stewards should:
 
 - Acknowledge vulnerability reports within a defined timeframe  
