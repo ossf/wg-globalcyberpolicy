@@ -130,7 +130,11 @@ The list of obligations can be found at the next link as well: [OSS Stewards Obl
 
 **Market surveillance authority (MSA)** means a market surveillance authority as defined in Article 3, point (4), of Regulation (EU) 2019/1020 \-  means an authority designated by a Member State under Article 10 as responsible for carrying out market surveillance in the territory of that Member State;[^3]
 
-**‘Exploitable vulnerability’** means a vulnerability that has the potential to be effectively used by an adversary under practical operational conditions
+**Actively exploited vulnerability** means a vulnerability for which there is reliable evidence that a malicious actor has exploited it in a system without permission of the system owner;
+
+**incident having an impact on the security of the product with digital elements** means an incident that negatively affects or is capable of negatively affecting the ability of a product with digital elements to protect the availability, authenticity, integrity or confidentiality of data or functions. The criteria for severity are defined in CRA's Article 14(5)(https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14): “For the purposes of paragraph 3, an incident having an impact on the security of the product with digital elements shall be considered to be severe where:
+it negatively affects or is capable of negatively affecting the ability of a product with digital elements to protect the availability, authenticity, integrity or confidentiality of sensitive or important data or functions; or
+it has led or is capable of leading to the introduction or execution of malicious code in a product with digital elements or in the network and information systems of a user of the product with digital elements.”
 
 All CRA-related definitions can be found in the [CRA’s Article 3](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3). Further ones will be provided in the CEN’s Vocabulary deliverable 40000-1-1. 
 
@@ -201,7 +205,7 @@ Once a notification is received, Article 16(2) assigns coordination responsibili
 
 The CRA further clarifies the process for determining where and to whom manufacturers should report incidents. Under Article 14(7), a steward’s main establishment in the Union is defined as the Member State where decisions regarding the cybersecurity of its products are predominantly taken. If such a location cannot be identified, the main establishment defaults to the Member State hosting the steward’s largest workforce within the EU. For stewards without a main establishment in the Union, the CRA outlines a clear order of precedence for selecting the appropriate CSIRT endpoint: first, the Member State where the authorized representative acts on behalf of the steward for the highest number of projects; then the Member State of the principal importer, followed by that of the main distributor, and finally, the Member State where the largest number of ‘users’ are located. Once a steward reports an incident or vulnerability to a given CSIRT under these criteria, subsequent notifications may continue to be submitted to that same coordinator for consistency.
 
-![Figure 4: Reporting AEVs and severe incidents via SRP](images/figure-4-reporting-vulnerabilities-via-srp.png "Figure 4: Reporting vulnerabilities via SRP")
+![Figure 4: Reporting actively exploited vulnerabilities and severe incidents via SRP](images/figure-4-reporting-vulnerabilities-via-srp.png "Figure 4: Reporting vulnerabilities via SRP")
 
 <small>Figure 4: Reporting vulnerabilities via SRP [^5]</small>
 
@@ -339,7 +343,7 @@ CVD often involves collaboration among multiple stakeholders. The goal of this c
 
 Information on the appropriate contacts for CSIRTs appointed by EU Member States is published in their national Coordinated Vulnerability Disclosure (CVD) frameworks. A consolidated overview of EU CSIRTs Network members’ CVD policies and recognised CVE Numbering Authorities is available at: [https://github.com/enisaeu/CNW\#vulnerability-disclosure-policies](https://github.com/enisaeu/CNW#vulnerability-disclosure-policies).  
 
-ENISA and the CSIRTs Network have published guidance on the information that should be included in a vulnerability report, where available, to support its assessment and coordinated handling. The full guidance is available through the CSIRTs Network’s CVD resources: (https://csirtsnetwork.eu/homepage?tab=cvd) 
+ENISA and the CSIRTs Network have published guidance on the information that should be included in a vulnerability report, where available, to support its assessment and coordinated handling. The full guidance is available through the CSIRTs Network’s CVD resources: <https://csirtsnetwork.eu/homepage?tab=cvd> 
 
 For reporting obligations under the CRA, however, the information required through the Single Reporting Platform (SRP) is more specifically defined. ENISA’s SRP FAQ, in particular FAQ item 16 (https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/frequently-asked-questions), identifies the fields that are obligatory, either because they derive directly from the CRA or are necessary as a logical consequence of its reporting requirements, and those that are optional at the different stages of reporting actively exploited vulnerabilities and severe incidents. OSS stewards subject to CRA reporting obligations should therefore use the SRP requirements as the primary reference for determining which information must be provided, while the broader CVD guidance may be used as complementary good practice.
 
