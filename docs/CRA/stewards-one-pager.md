@@ -40,3 +40,6 @@ In more plain language, here is what the Steward’s obligations come down to:
 2. Have a single point of contact for reporting and inquiring about vulnerabilities and potential incidents \- both for the repo code and infrastructure (e.g. [https://www.linuxfoundation.org/security](https://www.linuxfoundation.org/security))  
 3. If approached by EU officials (Market Surveillance Authority (MSA), ENISA, National CSIRT, etc.) provide requested information as able.  
 4. If a project’s software is known to be actively exploited or if foundation infrastructure has suffered a cybersecurity incident, report to the ENISA Single Reporting Platform (SRP).
+
+
+This is a living document - to submit PRs please use this link: https://github.com/ossf/wg-globalcyberpolicy/blob/main/docs/CRA/stewards-one-pager.md 
