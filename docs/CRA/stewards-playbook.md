@@ -409,18 +409,18 @@ Through guidance, tooling, training, and collaboration, a steward shall align up
 
 ## Checklist
 
-| :---: | :------- | :----------------------------------: |
-| [] | My Legal Entity Steward is:  |  |
-| [] | The projects within my scope of stewardship are:  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| [] | My Vulnerability and Incident Reporting Policy can be publicly found here:  |  |
-| [] | If different, my cybersecurity policy can be consulted here:  |  |
-| [] | My CSIRT is |   |
-| [] | My dedicated security contact for vulnerability and incident reports: |   |
-| [] | Does the steward provide development infrastructure? If so, is there an incident response plan for these systems? |   |
-| [] | Is the steward actively involved in the Product Development? If so, is that reflected in the cybersecurity policy or in another document?  |   |
-| [] | Are reporting obligations clarified? Could any of the articles 14(1), 14(3) and/or art 14(8) apply?  |   |
-| [] | Is the SRP reporting procedure documented? Are the 24h/72h/final-report procedures operational?  |   |
-| [] | Is voluntary Article 15 reporting addressed separately?  |   |
+| :---: | :------- | :---------------------------------: |
+| [ ] | My Legal Entity Steward is:  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| [ ] | The projects within my scope of stewardship are:  |  |
+| [ ] | My Vulnerability and Incident Reporting Policy can be publicly found here:  |  |
+| [ ] | If different, my cybersecurity policy can be consulted here:  |  |
+| [ ] | My CSIRT is |   |
+| [ ] | My dedicated security contact for vulnerability and incident reports: |   |
+| [ ] | Does the steward provide development infrastructure? If so, is there an incident response plan for these systems? |   |
+| [ ] | Is the steward actively involved in the Product Development? If so, is that reflected in the cybersecurity policy or in another document?  |   |
+| [ ] | Are reporting obligations clarified? Could any of the articles 14(1), 14(3) and/or art 14(8) apply?  |   |
+| [ ] | Is the SRP reporting procedure documented? Are the 24h/72h/final-report procedures operational?  |   |
+| [ ] | Is voluntary Article 15 reporting addressed separately?  |   |
 
 [^1]:  [Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001)](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit?slide=id.p#slide=id.p) 
 
