@@ -27,6 +27,7 @@ title: European Union Cyber Resilience Act (CRA)
 ## Checklists
 - [OSS Stewards Obligations Checklist](checklists/OSS_Stewards_Obligations_Checklist.html)
 - [PSIRT Obligations Checklist](checklists/PSIRT_Obligations_Checklist.html)
+- [CRA Reporting obligations for Manufacturers - Resource Guide](checklists/Manufacturers_September_Checklist.md)
 
 ## EU Authorities
 - [Market Surveillance Authorities (MSA)](https://webgate.ec.europa.eu/single-market-compliance-space/market-surveillance/ms-authorities?filter=legislationId:9021)
