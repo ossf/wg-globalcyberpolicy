@@ -1,16 +1,19 @@
 ---
-title: OpenSSF Global Cyber Policy Working Group
+title: Public Policy
 ---
 
 This is a list of materials (documents, services, and so on) released by the
 [Open Source Security Foundation (OpenSSF)](https://openssf.org)
 [Global Cyber Policy Working Group (WG)](https://github.com/ossf/wg-globalcyberpolicy).
 
-## European Union Cyber Resilience Act (CRA)
+* TOC
+{:toc}
 
-- [OpenSSF CRA Blog and Resources](https://openssf.org/public-policy/eu-cyber-resilience-act/)
-- [CRA Documents](/CRA)
-- [CRA Brief Guide for OSS Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers)
+## [OpenSSF Policy Resources](https://openssf.org/public-policy/)
+
+## [European Union Cyber Resilience Act (CRA)](CRA/index.md)
+
+{% include_relative CRA/content.md %}
 
 ## Contributing
 
