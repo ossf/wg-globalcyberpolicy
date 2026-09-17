@@ -5,40 +5,50 @@ title: CRA Reporting Obligations for Manufacturers - Resource Guide
 
 From 11 September 2026, the [Cyber Resilience Act (CRA)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ%3AL_202402847) requires manufacturers to report actively exploited vulnerabilities (AEVs) and severe incidents having an impact on the security of their products with digital elements. Once a manufacturer becomes aware of such an event, it must report it through the [EU Single Reporting Platform (SRP)](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp) within the applicable 24-hour, 72-hour deadlines followed by a final report within 14 days after a corrective or mitigating measure becomes available for AEVs, and within one month of the 72-hour notification for severe incidents. This one-pager summarises the key obligations and practical considerations for manufacturers from 11 September 2026\.  
 
-## **11 September checks for Manufacturers:**
+## 11 September checks for Manufacturers:
 
-1. **Confirm your reporting scope**   
-- [ ] For each product with digital elements, [confirm that it falls within the scope of the CRA](https://ec.europa.eu/newsroom/dae/redirection/document/131456) and determine whether your entity meets the CRA definition of a manufacturer;  
-- [ ] Ensure you have a process to assess whether a reported vulnerability is an AEV and whether an incident qualifies as a severe incident under [Article 14(5)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14);  
-- [ ] Identify the CSIRT designated as coordinator to which you must report under [Article 14(7)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14), based on your main establishment in the Union or, where applicable, the alternative criteria in the aforementioned article;  
-- [ ] Remember that Article 14 applies from **11 September 2026**, including in-scope products placed on the market before **11 December 2027** and after the product's support period has ended.
+1.  **Confirm your reporting scope**   
+    - [ ] For each product with digital elements, [confirm that it falls within the scope of the CRA](https://ec.europa.eu/newsroom/dae/redirection/document/131456) and determine whether your entity meets the CRA definition of a manufacturer;  
+    
+    - [ ] Ensure you have a process to assess whether a reported vulnerability is an AEV and whether an incident qualifies as a severe incident under [Article 14(5)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14);
+    
+    - [ ] Identify the CSIRT designated as coordinator to which you must report under [Article 14(7)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14), based on your main establishment in the Union or, where applicable, the alternative criteria in the aforementioned article;
+    
+    - [ ] Remember that Article 14 applies from **11 September 2026**, including in-scope products placed on the market before **11 December 2027** and after the product's support period has ended.
 
-2.  **Be ready to report**
+1.  **Be ready to report**
 
-Establish a process to report AEVs and severe incidents through the [SRP](https://www.enisa.europa.eu/sites/default/files/2026-07/ENISA_CRA_SRP_Factsheet_v1.0_0.pdf).  Make sure you have:
+    Establish a process to report AEVs and severe incidents through the [SRP](https://www.enisa.europa.eu/sites/default/files/2026-07/ENISA_CRA_SRP_Factsheet_v1.0_0.pdf).  Make sure you have:
+    
+    - [ ] One Primary Assigned Representative, with [up to 20 Secondary Representatives](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/frequently-asked-questions), able to report through the SRP [and ready](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/cra-srp-guidance-ar-user-registration) with their [EU Login accounts](https://trusted-digital-identity.europa.eu/creating-managing-and-using-your-eu-login-account/how-do-i-create-my-eu-login-account_en);
+    
+    - [ ] Internal procedures to ensure timely identification, triage, and escalation of vulnerabilities and incidents that may trigger CRA reporting obligations;
+    
+    - [ ] A process capable of meeting the 24-hour, 72-hour and final report deadlines;
+    
+    - [ ] The relevant CSIRT designated as coordinator identified and ready for reporting;
+    
+    - [ ] Knowledge of how to submit and regularly update an AEV or severe-incident notification through the [SRP](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/frequently-asked-questions) to be compliant with the relevant deadlines, including the [information required at each reporting stage](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/cra-srp-guidance-ar-notification-submission-and-update);
+    
+    - [ ] A process to inform impacted users, and where appropriate all users, of relevant vulnerabilities and severe incidents and applicable mitigation or corrective measures ([Art. 14(8)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14)).
 
-- [ ] One Primary Assigned Representative, with [up to 20 Secondary Representatives](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/frequently-asked-questions), able to report through the SRP [and ready](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/cra-srp-guidance-ar-user-registration) with their [EU Login accounts](https://trusted-digital-identity.europa.eu/creating-managing-and-using-your-eu-login-account/how-do-i-create-my-eu-login-account_en);  
-- [ ] Internal procedures to ensure timely identification, triage, and escalation of vulnerabilities and incidents that may trigger CRA reporting obligations;  
-- [ ] A process capable of meeting the 24-hour, 72-hour and final report deadlines;  
-- [ ] The relevant CSIRT designated as coordinator identified and ready for reporting;  
-- [ ] Knowledge of how to submit and regularly update an AEV or severe-incident notification through the [SRP](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/frequently-asked-questions) to be compliant with the relevant deadlines, including the [information required at each reporting stage](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp/cra-srp-guidance-ar-notification-submission-and-update);   
-- [ ] A process to inform impacted users, and where appropriate all users, of relevant vulnerabilities and severe incidents and applicable mitigation or corrective measures ([Art. 14(8)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_14)).
+1. **Recommended readiness measures (voluntary)**
 
-3.  **Recommended readiness measures (voluntary)**  
-   The measures below are recommended steps to support readiness and should not be read as additional CRA obligations applying from 11 September 2026\.  
-- [ ] **Prepare product information**: Maintain up-to-date information on products, components, dependencies and relevant contacts to support rapid assessment and reporting;  
-- [ ] **Strengthen upstream collaboration**: Establish direct channels with maintainers of third-party and open source components that you leverage as part of your PDEs. Manufacturers are encouraged to apply the principles of [Article 13(6)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) early, including sharing identified vulnerabilities and relevant fixes with upstream maintainers to support coordinated and timely remediation;  
-- [ ] **Test your reporting and response process**: Ensure relevant security, product, legal/compliance and communications teams understand their roles and can act quickly once an event is identified.
+    The measures below are recommended steps to support readiness and should not be read as additional CRA obligations applying from 11 September 2026\.
+    
+    - [ ] **Prepare product information**: Maintain up-to-date information on products, components, dependencies and relevant contacts to support rapid assessment and reporting;
+    
+    - [ ] **Strengthen upstream collaboration**: Establish direct channels with maintainers of third-party and open source components that you leverage as part of your PDEs. Manufacturers are encouraged to apply the principles of [Article 13(6)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_13) early, including sharing identified vulnerabilities and relevant fixes with upstream maintainers to support coordinated and timely remediation;  
+    
+    - [ ] **Test your reporting and response process**: Ensure relevant security, product, legal/compliance and communications teams understand their roles and can act quickly once an event is identified.
 
-## **Manufacturer vs steward 
+## Manufacturer vs steward
 
-![Figure 1 Manufacturer vs Steward](../images/figure-1-manufacturer-vs-steward.pngimages/figure-1-manufacturer-vs-steward.png "Figure 1: Manufacturer vs Steward")
+![Figure 1 Manufacturer vs Steward](../images/figure-1-manufacturer-vs-steward.png "Figure 1: Manufacturer vs Steward")
 
 <small>Figure 1: Manufacturer vs Steward [^1]</small>
 
-## 
-
-## **Definitions**
+## Definitions
 
 [CRA Art. 3:](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3) 
 
@@ -54,7 +64,7 @@ Establish a process to report AEVs and severe incidents through the [SRP](https:
 
 **‘remote data processing’** means data processing at a distance for which the software is designed and developed by the manufacturer, or under the responsibility of the manufacturer, and the absence of which would prevent the product with digital elements from performing one of its functions;
 
-## **Products within the scope of CRA:**
+## Products within the scope of CRA:
 
 [CRA Guidance, 17](https://ec.europa.eu/newsroom/dae/redirection/document/131456): “*Article 3(1) of the CRA defines a product with digital elements as ‘a software or hardware product and its remote data processing solutions, including software or hardware components being placed on the market separately’. Such products with digital elements fall within the scope of the CRA where their intended purpose or reasonably foreseeable use includes a direct or indirect logical or physical data connection to a device or network.”*
 
@@ -66,7 +76,7 @@ Establish a process to report AEVs and severe incidents through the [SRP](https:
 
 [CRA Guidance, 21](https://ec.europa.eu/newsroom/dae/redirection/document/131456): “*By contrast, software that executes remotely and is merely accessed by the user is not, on that basis alone, a product with digital elements. Recitals 11 and 12 of the CRA, in fact, draw this distinction, by explaining that processing or storage at a distance is subject to the CRA only to the extent that it is necessary for a product with digital elements to perform its functions (i.e. through the concept of remote data processing as defined in Article 3(2)), and not themselves as products with digital elements. This is typically the case for web applications, including progressive web apps, where they are accessed exclusively through a web browser. The same applies to websites: whilst websites may, to a limited extent, technically run and execute on the user’s device, it follows from recital 12 of the CRA that websites are not themselves to be considered as products with digital elements, and fall within the scope of the CRA only where they support the functionality of a product with digital elements, i.e. to the extent that they qualify as remote data processing”*
 
-## **Manufacturers vs stewards:**
+## Manufacturers vs stewards:
 
 [CRA Guidance, 52](https://ec.europa.eu/newsroom/dae/redirection/document/131456):*“manufacturers of FOSS supply versions for free of that software (often called ‘community’ versions), whose codebase is (almost) identical to the paid version. Those products with digital elements, however, are different products: the paid version is monetised in some way (e.g. either by charging a price or via other means as discussed in this section) and therefore considered to be placed on the market, triggering the manufacturer’s obligations. The version provided for free (or community version) is not monetised and therefore is not considered to be placed on the market for the purposes of the CRA.”*
 
@@ -74,7 +84,7 @@ Establish a process to report AEVs and severe incidents through the [SRP](https:
 
 [CRA Guidance, 57](https://ec.europa.eu/newsroom/dae/redirection/document/131456): *“By contrast, in some cases access to a specific version of the product with digital elements including certain benefits such as technical assistance or performance optimisation, is conditioned on remuneration. In such cases, that provision constitutes a monetised provision of a product with digital elements supplied in the course of a commercial activity and is therefore considered placed on the market. This includes cases where a paid edition or enterprise version is made available under a commercial agreement, irrespective of whether functionally equivalent software is also available free of charge under a free and open-source licence.”*
 
-## **Vulnerability reporting obligations**
+## Vulnerability reporting obligations
 
 | Citation | Requirement | *TL/DR* |
 | :---: | ----- | ----- |
@@ -135,15 +145,15 @@ The **criteria for severity** are defined in [Article 14(5)](https://eur-lex.eur
 
 *\*Voluntary reporting will not be in place at 11 September 2026*
 
-## **Simple submission flow[^2]:**
+## Simple submission flow[^2]:
 
-![Figure 2: Reporting actively exploited vulnerabilities and severe incidents via SRP](../images/figure-4-reporting-vulnerabilities-via-srp.pngimages/figure-4-reporting-vulnerabilities-via-srp.png "Figure 2: Reporting vulnerabilities via SRP")
+![Figure 2: Reporting actively exploited vulnerabilities and severe incidents via SRP](../images/figure-4-reporting-vulnerabilities-via-srp.png "Figure 2: Reporting vulnerabilities via SRP")
 
 <small>Figure 2: Reporting vulnerabilities via SRP [^5]</small>
 
-## **Reporting process and timelines[^3]:**
+## Reporting process and timelines[^3]:
 
-![Figure 3 Reporting timelines](images/figure-5-reporting-timelines.png "Figure 3: Reporting timelines")
+![Figure 3 Reporting timelines](../images/figure-5-reporting-timelines.png "Figure 3: Reporting timelines")
 
 <small>Figure 3: Reporting timelines [^6]</small>
 
