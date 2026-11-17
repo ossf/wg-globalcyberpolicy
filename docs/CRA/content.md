@@ -9,6 +9,7 @@
 ### Stewards Guidance
 - [The Linux Foundation Leadership CRA Stewards One Pager](/CRA/stewards-one-pager.html)
 - [The Linux Foundation CRA Stewards Playbook](/CRA/stewards-playbook.html)
+- [The Linux Foundation Stewardship Framework FAQ](/CRA/lf-stewardship-faq.html)
 
 ### Standards
 - [CRA Standards Map](/CRA/standards.html)
