@@ -422,6 +422,7 @@ Through guidance, tooling, training, and collaboration, a steward shall align up
 | [] | Is the SRP reporting procedure documented? Are the 24h/72h/final-report procedures operational?  |   |
 | [] | Is voluntary Article 15 reporting addressed separately?  |   |
 
+References:
 [^1]:  [Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001)](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit?slide=id.p#slide=id.p) 
 
 [^2]:  [https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L\_202402847\#art\_3](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3) 
@@ -436,3 +437,189 @@ Through guidance, tooling, training, and collaboration, a steward shall align up
 
 
 This is a living document and we would really appreciate your proposed enhancements - to submit PRs please use this link: https://github.com/ossf/wg-globalcyberpolicy/blob/main/docs/CRA/stewards-playbook.md
+
+
+Annex A - Illustrative Use Cases:
+This Annex presents a set of illustrative use cases contributed by the Japanese open source community and shared for inclusion in the OpenSSF CRA Stewards Playbook. 
+These use cases are complementary to the examples and explanations provided in the European Commission’s CRA guidance. 
+They focus in particular on situations that arise in open source development and distribution practices and that may raise practical questions about the respective roles and responsibilities of contributors, maintainers, stewards, manufacturers, and other actors in the software supply chain.
+The answers below reflect the discussions within WG GCP and are intended to illustrate how the CRA framework may be applied to the situations described. They should not be understood as legal determinations for individual cases. 
+
+Example 1: 
+Situation: 
+Corporate-A sells Hardware-A (developed by Corporate-A) to Corporate-B outside Europe. 
+Corporate-A provides OSS-A (developed for Hardware-A) directly to Corporate-B outside Europe. 
+Corporate-B manufactures Product-B incorporating Hardware-A and OSS-A and sells it within Europe.
+
+Answer: 
+Corporate-A: 1) Need to define if OSS-A falls under FOSS definition of the CRA. 
+2) If OSS-A has foreseable use in the EU as a production-grade FOSS and 
+3) if Corporate-A provides substantion support to OSS-A (falling under the formal definition) --> Can be a Steward. Otherwise - out of scope.
+Corporate-B: Manufacturer. As clearly places PDE on the EU market. Can also be an importer or distributor if it re-distributes something else from Corporate-A.
+
+Example 2:
+Situation:
+Corporate-A sells Hardware-A (developed by Corporate-A) to Corporate-B outside Europe. 
+Corporate-A publicly releases OSS-A (developed for Hardware-A) on GitHub.
+Corporate-B manufactures Product-B incorporating Hardware-A and OSS-A and sells it within Europe.
+
+Answer:
+Corporate-A: Publishing to the GitHub or not does not necessarily determine if "it is a FOSS or not". It's also not a qualifier to name someone as a Steward. See recitals 15-19. That makes the answer from Example 1 accurate here as well.
+Corporate-B: Manufacturer. As clearly places PDE on the EU market. Can also be an importer or distributor if it re-distributes something else from Corporate-A.
+
+Example 3:
+Situation: 
+Corporate-A publicly releases OSS-A developed for Hardware-B on GitHub.
+Corporate-B sells Hardware-B (developed by Corporate-B) to Corporate-C outside Europe.
+Corporate-B provides OSS-A as sample software directly to Corporate-C.
+Corporate-C manufactures Product-C incorporating Hardware-B and OSS-A and sells it within Europe.
+
+Answer:
+Corporate-A: Publishing to the GitHub or not is not 100% related to "is a FOSS or not" identification or to name someone as a Steward. It can be a Steward or out of scope.
+Corporate-B: If doesn't place product directly on the EU market, not a manufacturer. If dosesn't fall under Steward definition as described above, potentially out of scope.
+Corporate-C: Manufacturer. As clearly places PDE on the EU market. Need to do due diligence for the OSS-A and Hardware-B, but ultimalety is responsccible for CRA compliance.
+
+Example 4:
+Situation:
+Corporate-A publicly released OSS-A developed for Hardware-B on GitHub.
+However, Corporate-A no longer exists and no one is maintaining it.
+Corporate-B sells Hardware-B (developed by Corporate-B) to Corporate-C outside Europe.
+Corporate-B provides OSS-A as sample software directly to Corporate-C.
+Corporate-C manufactures Product-C incorporating Hardware-B and OSS-A and sells it within Europe.
+
+Answer:
+Corporate-B: As it doesn't place any product directly on the EU market, not a manufacturer. Potentially out of scope. 
+Corporate-B: Could be also a Steward if taking over OSS-A pure-in-open developement from Corporate-A (that doesn't exist anymore). 
+Corporate-C: Manufacturer. As clearly places PDE on the EU market. Need to do due diligence for the OSS-A and Hardware-B, but ultimately is responsible for CRA compliance.
+
+Example 5:
+Situation:
+Corporate-A publicly released OSS-A developed by Corporate-A on GitHub but has now withdrawn.
+Community-A has taken over management of OSS-A from Corporate-A.
+Corporate-B manufactures Product-B incorporating OSS-A and sells it within Europe.
+
+Answer:
+Corporate-A: As it has withdrawn its support for OSS-A, as it no longer provides systematic support, it is out of scope
+Community-A: Steward IF it has a legal entity behind it. As it has taken over management and provides systematic support on a sustained basis for the FOSS project intended for commercial activities.
+Corporate-B: Manufacturer. As it integrates the OSS-A into Product-B and places it directly on the EU market.
+
+Example 6:
+Situation:
+Corporate-A operates a public Q&A forum for Product-A (developed by Corporate-A) and explicitly states that code posted without special notice by the poster is treated as OSS.
+Individual-B posts Snippet-B to that Q&A forum.
+Corporate-A incorporates the posted Snippet-B into Product-A and sells it within Europe.
+
+Answer:
+Individual-B: Out of scope as not a legal person and as doesn't put any products on the EU market. We could position it into the (upstream) contributors/developers.
+Corporate-A: Manufacturer. As it integrates Snippet-B into Product-A and places it directly on the EU market. And there is no Steward for the Forum or Snippets of code as they're not PDEs.
+
+Example 7:
+Situation:
+An employee of Corporate-A contributes to OSS-A managed by Community-A. (Sign-off: Corporate-A)
+Corporate-B manufactures Product-B incorporating OSS-A (including that contribution) and sells it within Europe.
+
+Answer:
+Corporate-A: Out of scope. The individual contribution by an employee does not make the corporation a Steward or Manufacturer for the OSS-A project itself. And signing-off commits neither consitututes placing on the market nor in itself means substantial support.
+Community-A: IF there is a legal entity behind it and supposing that OSS-A fits into the OSS category, it could be a Steward as it manages the OSS-A project and provides systematic support.
+Corporate-B: Manufacturer. As it integrates OSS-A into Product-B and places it directly on the EU market.
+
+Example 8:
+Situation:
+Corporate-A provides SaaS-A within Europe, using OSS-A.
+Corporate-B sells Hardware-B within Europe.
+Corporate-B's support website for their Product-B links through to SaaS-A.
+A vulnerability is found in OSS-A used in SaaS-A.
+
+Answer:
+Corporate-A: Out of scope. Pure standalone SaaS is generally excluded from the CRA as it is considered a service rather than a product with digital elements. It's true even if SaaS-A is used by manufacturers down the chain, because SaaS-A is not a PDE in this case and therefore Corporate-A itself doesn't have any CRA obligations. Corporate A may fall under NIS2 obligations.
+Corporate-B: Manufacturer for Hardware-B and Product B. Simply linking to an independent SaaS on a support website does not integrate it as an essential remote data processing solution for Hardware-B. However, if the security flaw in support website could affect security posture (or disrupt normal developement process) of the Product-B, Corporate-B must execute due diligence for their supplier Corporate-A. 
+Further details are required to understand the relevance of "A vulnerability is found in OSS-A used in SaaS-A"
+
+Example 9:
+Situation:
+Corporate-A publicly releases OSS-A (developed by Corporate-A) on GitHub.
+Corporate-A only releases OSS-A and provides nothing to the European market.
+Unrelated Corporate-B incorporates OSS-A into Hardware-B (developed by Corporate-B) and sells it within Europe.
+
+Answer:
+Corporate-A: 1) Need to define if OSS-A falls under FOSS definition of the CRA. 
+2) If OSS-A has foreseeable use in the EU as a production-grade FOSS and 
+3) if Corporate-A provides systematic support to OSS-A (falling under the formal definition) --> Can be a Steward. Otherwise - out of scope.
+Corporate-B: Manufacturer. As clearly places PDE on the EU market. Can be also an importer if re-distributes something else from Corporate-A. 
+If Corporate-A did not identify itself as a Steward, Corporate-B can nothing to do about it. In any case Corporate-B must perform due diligence for OSS-A, as normal.
+
+Example 10:
+Situation:
+Corporate-A publicly releases OSS-A on GitHub as algorithm/proof-of-concept code accompanying an academic paper as part of research activities.
+Corporate-A only releases OSS-A and provides nothing to the European market.
+Unrelated Corporate-B sells Product-B using OSS-A within Europe.
+
+Answer:
+Corporate-A: Out of scope. Developing and releasing PoC code accompanying an academic paper as part of research activities is generally considered a non-commercial activity and does not fall under the definition of a Steward or Manufacturer. 
+PoC code is not a PDE by definition (as also clarified in the EU Commision CRA Guidance).
+Corporate-B: Manufacturer. As it incorporates the OSS-A into Product-B and places it directly on the EU market for commercial sale. It needs to perform due diligence on that component
+
+Example 11:
+Situation:
+Corporate-A publicly releases OSS-A (developed by Corporate-A) on GitHub.
+Corporate-A only releases OSS-A and provides their products(including OSS-A) to the European market.
+Unrelated Corporate-B incorporates OSS-A into Hardware-B (developed by Corporate-B) and sells it within Europe.
+
+Answer:
+Corporate-A: Steward for OSS-A supposing that it provides systematic support for it and Manufacturer for the other products as it places them directly on the EU market. Corporate-A should identify all the products (incl. those based on OSS-A, but probably with a different name and trademark), so that to distinguish its role carefully as a Steward and a Manufacturer.
+Corporate-B: Manufacturer as it places Hardware-B on the EU market.
+
+Example 12:
+Situation:
+Corporate-A publicly released OSS-A (developed by Corporate-A) on GitHub but it is now archived, with end-of-support explicitly stated in the README etc.
+Corporate-A only released OSS-A and provides nothing to the European market now.
+Unrelated Corporate-B incorporates OSS-A into Hardware-B (developed by Corporate-B) and sells it within Europe.
+
+Answer:
+Corporate-A: Out of scope. It does not meet the definition of steward anymore as the project is archived, end-of-support is explicitly stated, it no longer provides systematic support for the FOSS project. It will no longer be subject to the stewards' obligations. 
+Corporate-B: Manufacturer but, taking into account the previous provisions, it should never integrate OSS-A if it does not start to offer sustained support for that component. 
+It would fail the due diligence obligations. Another option for Corporate-B is to fork OSS-A and either declare themselves as Steward (public fork, susteained support) or a Manufacturer (private fork, becomes part of the product).
+
+Example 13:
+Situation:
+Corporate-A publicly releases OSS-A (developed by Corporate-A) on GitHub and incorporates OSS-A into Corporate-A's Product-A and sells it within Europe.
+There are no other known users of OSS-A.
+
+Answer:
+Corporate-A: If OSS-A and Product A have different names and tademarks, Corporate-A is a Steward for OSS-A and Manufacturer for Product A. 
+Corporate-A may decide to use the single trademark for Product A and just make parts (or full) of its source code available publicly and while monetizing the paid version (or services around it) of Product A. 
+In this case Corporate-A is a Manufacturer for Product A and not a Steward, because being open source or not is not a qualifier for placing PDE on the EU market. 
+
+Example 14:
+Situation:
+Corporate-A publicly releases OSS-A (developed by Corporate-A) on GitHub but provides no support to other companies (stated within README etc.).
+Corporate-A incorporates OSS-A into Product-A and sells it within Europe.
+Corporate-B incorporates OSS-A into Hardware-B (developed by Corporate-B) and sells it within Europe.
+
+Answer:
+Corporate-A: Steward for OSS-A if provides sustained support, and Manufacturer for Product-A as it places it directly on the EU market.
+Corporate-B: Manufacturer as it places Hardware-B on the EU market. It needs to perform due diligence for OSS-A and if needed interact with Corporate-A in its capacity as a Steward for OSS-A (not a manufacturer).
+
+Example 15:
+Situation:
+Corporate-A publicly releases OSS-A (developed by Corporate-A) on GitHub, accepting maintenance and contributions.
+Corporate-A incorporates OSS-A into Product-A (developed by Corporate-A)  within Europe.
+
+Answer:
+Corporate A: Steward for OSS-A if provides sustained support, Manufacturer for Product-A as it places it on the EU market. 
+But also Company-A employees are maintainers/developers/upstream contributors. 
+Employing a maintainer/developer/upstream contributor does not bring any CRA obligations to Corporate A. Individuals themselves (maintainers/developers/upstream contributors) are out of scope of the CRA.
+
+Example 16:
+Situation:
+If Corporate-A must act as a Steward in cases like No. 9 or No. 10, might Corporate-A avoid becoming a Steward by applying a proprietary licesence,  NonCommercial licence (e.g. CC BY-NC) or Research-Only licence. Is this leading to a trend of avoiding OSI-approved OSS licences?
+
+Answer:
+Corporate-A: Applying a proprietary, non-commercial, or research-only license means the software does not qualify anymore as FOSS under the CRA, thereby avoiding the definition of an OSS Steward. 
+However, if the software is instead commercialized or placed on the market under a proprietary license, Corporate-A will become a Manufacturer. 
+To "avoid" being named as a Steward Company-A must: 
+1) look into the definition of a PDE (e.g, alfa, beta, research, PoC, not-for-production, etc. are not PDEs);
+2) look at the reasonable foreseable use of the project in a commercial capacity;
+3) look into the sustained support definition (e.g, based on the EU Commisison CRA Guidance - merely monetary support is not a qualifier).
+Is this a leading trend to avoid OSI-approved OSS licences: It depends on the goals of releasing and supporting open source project.
+If the intention is to increase adoption, allow contributions and being as a promotion vehicle for the commercial project, it's unlikely a good decision to use non-OSI-approved license. CRA Requirements for Stewards are not very heavy and there are no panalties.
