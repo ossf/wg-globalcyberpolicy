@@ -422,6 +422,7 @@ Through guidance, tooling, training, and collaboration, a steward shall align up
 | [] | Is the SRP reporting procedure documented? Are the 24h/72h/final-report procedures operational?  |   |
 | [] | Is voluntary Article 15 reporting addressed separately?  |   |
 
+References:
 [^1]:  [Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001)](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit?slide=id.p#slide=id.p) 
 
 [^2]:  [https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L\_202402847\#art\_3](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3) 
@@ -436,3 +437,73 @@ Through guidance, tooling, training, and collaboration, a steward shall align up
 
 
 This is a living document and we would really appreciate your proposed enhancements - to submit PRs please use this link: https://github.com/ossf/wg-globalcyberpolicy/blob/main/docs/CRA/stewards-playbook.md
+
+
+# Annex A - Illustrative Use Cases
+
+This Annex presents a set of illustrative use cases contributed by the Japanese open source community and shared for inclusion in the OpenSSF CRA Stewards Playbook. 
+
+These use cases are complementary to the examples and explanations provided in the European Commission’s CRA guidance. They focus in particular on situations that arise in open source development and distribution practices that may raise practical questions about the respective roles and responsibilities of contributors, maintainers, stewards, manufacturers, and other actors in the software supply chain.
+
+> **Disclaimer:** The answers below reflect the discussions within WG GCP and are intended to illustrate how the CRA framework may be applied to the situations described. They should not be understood as legal determinations for individual cases.
+
+
+
+## Supply Chain & Distribution Scenarios
+
+### Example 1: Standard Hardware & OSS Supply Chain
+**Situation:** 
+* **Corporate-A** sells Hardware-A (developed by Corporate-A) to Corporate-B outside Europe. 
+* **Corporate-A** provides OSS-A (developed for Hardware-A) directly to Corporate-B outside Europe. 
+* **Corporate-B** manufactures Product-B incorporating Hardware-A and OSS-A and sells it within Europe.
+
+**Answer:** 
+* **Corporate-A:** Can be a **Steward** if: 1) OSS-A falls under the FOSS definition of the CRA; 2) OSS-A has foreseeable use in the EU as a production-grade FOSS; and 3) Corporate-A provides substantial support to OSS-A. Otherwise, they are **out of scope**.
+* **Corporate-B:** **Manufacturer**, as it clearly places a Product with Digital Elements (PDE) on the EU market. It can also be an importer or distributor if it re-distributes something else from Corporate-A.
+
+### Example 2: Public GitHub Release
+**Situation:**
+* **Corporate-A** sells Hardware-A to Corporate-B outside Europe. 
+* **Corporate-A** publicly releases OSS-A (developed for Hardware-A) on GitHub.
+* **Corporate-B** manufactures Product-B incorporating both and sells it within Europe.
+
+**Answer:**
+* **Corporate-A:** Publishing to GitHub does not necessarily determine if it is "FOSS" or not, nor is it a qualifier to automatically name someone as a Steward (see recitals 15-19). The criteria from Example 1 apply here.
+* **Corporate-B:** **Manufacturer** (same rationale as Example 1).
+
+### Example 3: Third-Party Manufacturer
+**Situation:** 
+* **Corporate-A** publicly releases OSS-A (developed for Hardware-B) on GitHub.
+* **Corporate-B** sells Hardware-B to Corporate-C outside Europe and provides OSS-A as sample software directly to Corporate-C.
+* **Corporate-C** manufactures Product-C incorporating Hardware-B and OSS-A, and sells it within Europe.
+
+**Answer:**
+* **Corporate-A:** Publishing to GitHub does not definitively identify it as FOSS or designate a Steward. May be a **Steward** or **out of scope**.
+* **Corporate-B:** Not a manufacturer as it doesn't place a product directly on the EU market. If it doesn't fall under the Steward definition, it is potentially **out of scope**.
+* **Corporate-C:** **Manufacturer**. Needs to do due diligence for OSS-A and Hardware-B, and is ultimately responsible for CRA compliance.
+
+### Example 4: Abandoned Upstream Project
+**Situation:**
+* **Corporate-A** released OSS-A on GitHub, but no longer exists and no one maintains it.
+* **Corporate-B** sells Hardware-B to Corporate-C outside Europe, providing OSS-A as sample software.
+* **Corporate-C** manufactures Product-C incorporating both and sells it within Europe.
+
+**Answer:**
+* **Corporate-B:** Potentially **out of scope** (does not place a product on the EU market). Could be a **Steward** if it takes over OSS-A pure-in-open development from Corporate-A. 
+* **Corporate-C:** **Manufacturer**. Responsible for CRA compliance and must perform due diligence for OSS-A and Hardware-B.
+
+---
+
+### Entity Relationships (Examples 1-4)
+
+```mermaid
+flowchart LR
+    subgraph Upstream / Outside EU
+        A[<b>Corporate-A</b><br>Steward or Out of Scope] -- "Hardware/OSS" --> B[<b>Corporate-B</b><br>Supplier]
+        B -- "Provides to" --> C[<b>Corporate-C</b>]
+    end
+    subgraph EU Market
+        C -- "Sells Product-C<br>(PDE)" --> EU((EU<br>Consumers))
+    end
+    style C stroke:#2ecc71,stroke-width:3px
+    note[Corporate-C acts as the Manufacturer<br>bearing CRA Compliance] -.-> C
